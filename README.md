@@ -34,7 +34,8 @@ Feel free to reach out to me if you'd like to connect, share knowledge, or discu
 - LinkedIn: https://www.linkedin.com/in/umman-mammadov-947436277/
 - Twitter/X: https://twitter.com/UmmanBHOS
 - Medium: https://medium.com/@ummanmemmedov2005
-- Facebook: https://www.facebook.com/profile.php?id=100062475914606 
+- Facebook: https://www.facebook.com/profile.php?id=100062475914606
+- Reddit: https://www.reddit.com/user/Umman2005
 
 ## Let's Connect
 
