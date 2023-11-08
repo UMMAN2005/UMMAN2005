@@ -32,7 +32,9 @@ As I'm still a student, my project portfolio is a work in progress. I'm actively
 Feel free to reach out to me if you'd like to connect, share knowledge, or discuss common interests. You can find me on:
 
 - LinkedIn: https://www.linkedin.com/in/umman-mammadov-947436277/
-- Twitter: https://twitter.com/UmmanBHOS
+- Twitter/X: https://twitter.com/UmmanBHOS
+- Medium: https://medium.com/@ummanmemmedov2005
+- Facebook: https://www.facebook.com/profile.php?id=100062475914606 
 
 ## Let's Connect
 
