@@ -1,4 +1,4 @@
-# Hello, I'm Umman 👋
+# Hello, I'm Umman! 👋
 
 Welcome to my GitHub profile! I'm a junior programmer and aspiring pentester currently studying at the university. Here, you'll find a collection of projects and repositories that reflect my interests in ethical hacking, programming, and my journey as a student in the cybersecurity field.
 
@@ -31,11 +31,11 @@ As I'm still a student, my project portfolio is a work in progress. I'm actively
 
 Feel free to reach out to me if you'd like to connect, share knowledge, or discuss common interests. You can find me on:
 
-- LinkedIn: https://www.linkedin.com/in/umman-mammadov-947436277/
-- Twitter/X: https://twitter.com/UmmanBHOS
-- Medium: https://medium.com/@ummanmemmedov2005
-- Facebook: https://www.facebook.com/profile.php?id=100062475914606
-- Reddit: https://www.reddit.com/user/Umman2005
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/umman-mammadov-947436277/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/UmmanBHOS)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ummanmemmedov2005)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100062475914606)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Umman2005)
 
 ## Let's Connect
 
