@@ -20,3 +20,5 @@
 [![My Skills](https://skillicons.dev/icons?i=git,postman,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
 ## Social
 [![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin,discord,gmail,github,stackoverflow)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=UMMAN2005&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
