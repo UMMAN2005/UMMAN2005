@@ -27,26 +27,24 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UMMAN2005)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
 
-</br>
-
 # 🎯 My Skills
 
-## 💻 General
+### 💻 General
 [![General Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,rust,py,dart,gtk,md,regex)](https://skillicons.dev)
 
-## ✨ Frontend
+### ✨ Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 
-## ⚙️ Backend
+### ⚙️ Backend
 [![Backend Skills](https://skillicons.dev/icons?i=docker,kubernetes,dotnet,npm,yarn,nodejs,express,postgres,firebase)](https://skillicons.dev)
 
-## ⛓️ Blockchain
+### ⛓️ Blockchain
 [![Blockchain Skills](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev)
 
-## 🛡️ Cybersecurity
+### 🛡️ Cybersecurity
 [![Cybersecurity Skills](https://skillicons.dev/icons?i=windows,linux,redhat,debian,ubuntu,kali,bash,powershell)](https://skillicons.dev)
 
-## 🛠️ Tools
+### 🛠️ Tools
 [![Tools Skills](https://skillicons.dev/icons?i=git,postman,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
 
 # My Trophies 🏆
@@ -61,3 +59,4 @@
   <a href="https://github.com/UMMAN2005/Simple-View-Counter" style="text-decoration:none;">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=UMMAN2005&label=VISITORS&style=for-the-badge"/></a>
 </p>
+
