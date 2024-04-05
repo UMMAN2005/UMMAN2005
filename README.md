@@ -58,7 +58,6 @@
 [![Tools Skills](https://skillicons.dev/icons?i=git,postman,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
 </details>
 
-# My Trophies 🏆
-
+# 🏆My Trophies
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=UMMAN2005&theme=tokyonight&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
