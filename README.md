@@ -22,3 +22,18 @@
 [![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin,discord,gmail,github,stackoverflow)](https://skillicons.dev)
 # My Trohies
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=UMMAN2005&theme=tokyonight&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <a href="https://twitter.com/UmmanBHOS"><img width="50px" alt="Twitter" title="Twitter" src="https://skillicons.dev/icons?i=twitter"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/umman-mammadov-947436277/"><img width="50px" alt="LinkedIn" title="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discordapp.com/users/1172790469281972274" alt="Discord" title="Discord"><img width="50px" src="https://skillicons.dev/icons?i=discord"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
+</p>
+
