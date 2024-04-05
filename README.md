@@ -1,8 +1,17 @@
 # Hey there, I'm Umman! 👋
 
+<p align="center">
+  <a href="https://github.com/UMMAN2005?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/UMMAN2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/UMMAN2005?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UMMAN2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/UMMAN2005/Simple-View-Counter" style="text-decoration:none;">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=UMMAN2005&label=VISITORS&style=for-the-badge"/></a>
+</p>
+
 ![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](https://github.com/UMMAN2005/CLOUD/blob/main/GitHub.gif)
 
-## GitHub Stats 📊
+# GitHub Stats 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=UMMAN2005&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -27,7 +36,8 @@
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UMMAN2005)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
 
-# 🎯 My Skills
+<details open> 
+  <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
 [![General Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,rust,py,dart,gtk,md,regex)](https://skillicons.dev)
@@ -46,17 +56,9 @@
 
 ### 🛠️ Tools
 [![Tools Skills](https://skillicons.dev/icons?i=git,postman,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
+</details>
 
 # My Trophies 🏆
 
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=UMMAN2005&theme=tokyonight&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="center">
-  <a href="https://github.com/UMMAN2005?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/UMMAN2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/UMMAN2005?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UMMAN2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-  <a href="https://github.com/UMMAN2005/Simple-View-Counter" style="text-decoration:none;">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=UMMAN2005&label=VISITORS&style=for-the-badge"/></a>
-</p>
 
