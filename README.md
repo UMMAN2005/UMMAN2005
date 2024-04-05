@@ -7,16 +7,16 @@
 # My Skills
 
 ## General
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,rust,dart,py,gtk,md,regex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,rust,py,dart,gtk,md,regex)](https://skillicons.dev)
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,dotnet,express,npm,yarn,nodejs,postgres,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,dotnet,npm,yarn,nodejs,express,postgres,firebase)](https://skillicons.dev)
 ## Blockchain
 [![My Skills](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev)
 ## Cybersecurity
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,redhat,debian,ubuntu,kali,bash,powershell)](https://skillicons.dev)
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=clion,pycharm,notion,obsidien,subline,vim,visualstudio,vscode,git,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,postman,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
 ## Social
-[![My Skills](https://skillicons.dev/icons?i=gmail,github,discord,instagram,linkedin,stackoverflow,twitter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=twitter,instagram,linkedin,discord,gmail,github,stackoverflow)](https://skillicons.dev)
