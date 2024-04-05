@@ -1,8 +1,9 @@
+![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](https://github.com/UMMAN2005/CLOUD/blob/main/GitHub.gif)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=UMMAN2005&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UMMAN2005&layout=compact&theme=tokyonight)
 [![Waketime](https://github-readme-stats.vercel.app/api/wakatime?username=UMMAN2005&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub streak](https://streak-stats.demolab.com/?user=UMMAN2005&theme=tokyonight)](https://git.io/streak-stats)
-![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](https://github.com/UMMAN2005/CLOUD/blob/main/GitHub.gif)
 
 # My Skills
 
@@ -32,4 +33,13 @@
 
 # My Trohies
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=UMMAN2005&theme=tokyonight&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="center">
+  <a href="https://github.com/UMMAN2005?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/UMMAN2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/UMMAN2005?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UMMAN2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+  <a href="https://github.com/UMMAN2005/Simple-View-Counter" style="text-decoration:none;">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=UMMAN2005&label=VISITORS&style=for-the-badge"/></a>
+</p>
 
