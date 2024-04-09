@@ -48,13 +48,13 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=docker,kubernetes,dotnet,npm,yarn,nodejs,express,postgres,firebase)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=docker,kubernetes,dotnet,npm,yarn,nodejs,express,postgres,mongodb,firebase)](https://skillicons.dev)
 
 ### ⛓️ Blockchain
 [![Blockchain Skills](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev)
 
 ### 🛡️ Cybersecurity
-[![Cybersecurity Skills](https://skillicons.dev/icons?i=windows,linux,redhat,debian,ubuntu,kali,bash,powershell)](https://skillicons.dev)
+[![Cybersecurity Skills](https://skillicons.dev/icons?i=windows,apple,linux,redhat,debian,ubuntu,kali,bash,powershell)](https://skillicons.dev)
 
 ### 🛠️ Tools
 [![Tools Skills](https://skillicons.dev/icons?i=git,postman,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
