@@ -48,7 +48,7 @@
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://skillicons.dev/icons?i=docker,kubernetes,dotnet,mongodb,npm,yarn,nodejs,express,pug,postgres,mysql,sequalize,firebase)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=docker,kubernetes,dotnet,mongodb,npm,yarn,nodejs,express,pug,postgres,mysql,sequelize,firebase)](https://skillicons.dev)
 
 ### ⛓️ Blockchain
 [![Blockchain Skills](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev)
