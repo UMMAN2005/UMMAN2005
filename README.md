@@ -41,7 +41,7 @@
 </div>
 
 ```
-1233333333333333333333333333333333333333333
+0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e
 ```
 
 # 🌐 Social
@@ -58,7 +58,7 @@
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-[![General Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,rust,py,dart,gtk,md,regex)](https://skillicons.dev)
+[![General Skills](https://skillicons.dev/icons?i=c,cpp,cs,go,rust,py,dart,gtk,md)](https://skillicons.dev)
 
 ### ✨ Frontend
 [![Frontend Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
