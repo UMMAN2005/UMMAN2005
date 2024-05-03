@@ -3,6 +3,10 @@
 <p align="center" >CHECK OUT MY FUN <a href="https://umman2005.github.io/2D-Game_Portfolio/" >PORTFOLIO!</a> 🤩
 
 <p align="center">
+  <a href="https://www.buymeacoffee.com/gbraad" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/UMMAN2005?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/UMMAN2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/UMMAN2005?tab=followers">
