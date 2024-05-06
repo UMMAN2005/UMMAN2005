@@ -4,11 +4,14 @@
 
 <p align="center">
   <a href="https://github.com/UMMAN2005?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/UMMAN2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/UMMAN2005?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+  </a>
   <a href="https://github.com/UMMAN2005?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UMMAN2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/UMMAN2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
+  </a>
   <a href="https://github.com/UMMAN2005/Simple-View-Counter" style="text-decoration:none;">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=UMMAN2005&label=VISITORS&style=for-the-badge"/></a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=UMMAN2005&label=VISITORS&style=for-the-badge"/>
+  </a>
 </p>
 
 ![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](https://github.com/UMMAN2005/CLOUD/blob/main/GitHub.gif)
@@ -44,6 +47,14 @@
 0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e
 ```
 
+# 📚 Profiles
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/umman">
+    <img alt="hackerank" title="HackerRank profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+</p>
+
 # 🌐 Social
 
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/UmmanBHOS)
@@ -76,8 +87,8 @@
 [![Tools Skills](https://skillicons.dev/icons?i=git,postman,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
 </details>
 
-# 🏆My Trophies
+# 🏆 My Trophies
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=UMMAN2005&theme=tokyonight&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-# 💬Random Quote
+# 💬 Random Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
