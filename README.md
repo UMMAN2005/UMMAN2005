@@ -28,7 +28,7 @@
   <img height=200 width="520" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=UMMAN2005&layout=compact&theme=tokyonight" />
 </a>
 
-# 🎗️ Support
+# 🎗️ Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ummanmemmec" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
@@ -79,5 +79,5 @@
 # 🏆My Trophies
 [![My Trophies](https://github-profile-trophy.vercel.app/?username=UMMAN2005&theme=tokyonight&row=2&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Random Quote
+# 💬Random Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
