@@ -69,7 +69,7 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/u/?authuser=ummanmemmedov2005@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ummanmemmedov2005gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UMMAN2005)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
 
