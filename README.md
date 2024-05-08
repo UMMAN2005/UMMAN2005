@@ -49,17 +49,9 @@
 0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e
 ```
 
-# 📚 Profiles
-
 <p align="center">
-  <a href="https://medium.com/@ummanmemmedov2005">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
   <a href="https://www.hackerrank.com/profile/umman">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://dev.to/umman2005">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
 
