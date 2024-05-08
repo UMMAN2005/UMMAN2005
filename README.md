@@ -1,6 +1,8 @@
 # Hey there, I'm Umman! 👋
 
+<!--
 <p align="center" >CHECK OUT MY FUN <a href="https://umman2005.github.io/2D-Game_Portfolio/" >PORTFOLIO!</a> 🤩
+-->
 
 <p align="center">
   <a href="https://github.com/UMMAN2005?tab=repositories&sort=stargazers">
@@ -50,13 +52,13 @@
 # 📚 Profiles
 
 <p align="center">
-  <a href="https://www.hackerrank.com/profile/umman">
-    <img alt="hackerank" title="HackerRank profile" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/umman">
+  <a href="https://medium.com/@ummanmemmedov2005">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/umman">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://dev.to/umman2005">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
