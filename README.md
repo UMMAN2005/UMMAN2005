@@ -18,7 +18,7 @@
 
 ![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](https://github.com/UMMAN2005/CLOUD/blob/main/GitHub.gif)
 
-# GitHub Stats 📊
+# 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=UMMAN2005&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -69,7 +69,7 @@
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-[![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,asm,rust,py,dart,gtk,md)](https://skillicons.dev)
+[![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,gtk,md)](https://skillicons.dev)
 
 ### ✨ Frontend
 [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
@@ -84,7 +84,7 @@
 [![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,redhat,debian,ubuntu,kali,bash,powershell)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
+[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode,chrome)](https://skillicons.dev)
 </details>
 
 # 🏆 My Trophies
