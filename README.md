@@ -75,13 +75,13 @@
 [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,dotnet,mongodb,npm,yarn,nodejs,express,pug,postgres,mysql,sequelize)](https://skillicons.dev)
+[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,dotnet,mongodb,redis,npm,yarn,nodejs,express,pug,postgres,mysql,sequelize)](https://skillicons.dev)
 
 ### ⛓️ Blockchain
 [![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,ipfs)](https://skillicons.dev)
 
 ### 🛡️ Cyber Security
-[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,apple,linux,redhat,debian,ubuntu,kali,bash,powershell)](https://skillicons.dev)
+[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell)](https://skillicons.dev)
 
 ### 🛠️ Tools
 [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode,chrome)](https://skillicons.dev)
