@@ -92,3 +92,8 @@
 
 # 💬 Random Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+
+# 🎮 Some Fun
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
