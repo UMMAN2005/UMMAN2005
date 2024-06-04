@@ -61,9 +61,12 @@
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
 [![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
+[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/umman2005)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ummanmemmedov2005gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UMMAN2005)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
+[![Daily.dev](https://skillicons.dev/icons?i=dailydev)](https://app.daily.dev/umman)
+[![X](https://skillicons.dev/icons?i=x)](https://x.com/UmmanBHOS)
 
 <details open> 
   <summary><h1>🎯 My Skills</h1></summary>
@@ -75,16 +78,16 @@
 [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,dotnet,mongodb,redis,npm,yarn,nodejs,express,pug,postgres,mysql,sequelize)](https://skillicons.dev)
+[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,dotnet,mongodb,redis,blazor,npm,yarn,nodejs,express,pug,postgres,mysql,sequelize)](https://skillicons.dev)
 
 ### ⛓️ Blockchain
-[![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,ipfs)](https://skillicons.dev)
+[![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)](https://skillicons.dev)
 
 ### 🛡️ Cyber Security
-[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell)](https://skillicons.dev)
+[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,kde)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode,chrome)](https://skillicons.dev)
+[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
 </details>
 
 # 🏆 My Trophies
