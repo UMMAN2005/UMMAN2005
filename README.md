@@ -78,7 +78,7 @@
 [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,dotnet,mongodb,redis,blazor,npm,yarn,nodejs,express,pug,postgres,mysql,sequelize)](https://skillicons.dev)
+[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,dotnet,mongodb,redis,blazor,swagger,npm,yarn,nodejs,express,pug,postgres,mysql,sequelize)](https://skillicons.dev)
 
 ### ⛓️ Blockchain
 [![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)](https://skillicons.dev)
