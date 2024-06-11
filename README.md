@@ -64,6 +64,7 @@
 [![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/umman2005)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ummanmemmedov2005gmail.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UMMAN2005)
+[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/ummanmemmedov2005)
 [![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
 [![Daily.dev](https://skillicons.dev/icons?i=dailydev)](https://app.daily.dev/umman)
 [![X](https://skillicons.dev/icons?i=x)](https://x.com/UmmanBHOS)
