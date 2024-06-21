@@ -85,10 +85,10 @@
 [![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)](https://skillicons.dev)
 
 ### 🛡️ Cyber Security
-[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,kde)](https://skillicons.dev)
+[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,kde,gnome)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode)](https://skillicons.dev)
+[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode,chatgpt)](https://skillicons.dev)
 </details>
 
 # 🏆 My Trophies
