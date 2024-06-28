@@ -57,7 +57,7 @@
 
 # 🌐 Social
 
-[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter)](https://twitter.com/UmmanBHOS)
+[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter)](https://x.com/UmmanBHOS)
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
@@ -67,7 +67,6 @@
 [![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab)](https://gitlab.com/ummanmemmedov2005)
 [![Stack Overflow](https://go-skill-icons.vercel.app/api/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
 [![Daily.dev](https://go-skill-icons.vercel.app/api/icons?i=dailydev)](https://app.daily.dev/umman)
-[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/UmmanBHOS)
 
 <details open> 
   <summary><h1>🎯 My Skills</h1></summary>
@@ -85,7 +84,7 @@
 [![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)](https://skillicons.dev)
 
 ### 🛡️ Cyber Security
-[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,kde,gnome)](https://skillicons.dev)
+[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,wsl,kde,gnome)](https://skillicons.dev)
 
 ### 🛠️ Tools
 [![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode,chatgpt)](https://skillicons.dev)
