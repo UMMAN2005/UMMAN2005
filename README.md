@@ -56,8 +56,8 @@
 </p>
 
 # 🌐 Social
-
-[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter)](https://x.com/UmmanBHOS)
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/UmmanBHOS)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/UmmanBHOS)
 [![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
