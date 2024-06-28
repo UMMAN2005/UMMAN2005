@@ -57,17 +57,17 @@
 
 # 🌐 Social
 
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/UmmanBHOS)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
-[![Dev.to](https://skillicons.dev/icons?i=devto)](https://dev.to/umman2005)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ummanmemmedov2005gmail.com)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/UMMAN2005)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/ummanmemmedov2005)
-[![Stack Overflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
-[![Daily.dev](https://skillicons.dev/icons?i=dailydev)](https://app.daily.dev/umman)
-[![X](https://skillicons.dev/icons?i=x)](https://x.com/UmmanBHOS)
+[![Twitter](https://go-skill-icons.vercel.app/api/icons?i=twitter)](https://twitter.com/UmmanBHOS)
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
+[![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
+[![Dev.to](https://go-skill-icons.vercel.app/api/icons?i=devto)](https://dev.to/umman2005)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:ummanmemmedov2005gmail.com)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/UMMAN2005)
+[![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab)](https://gitlab.com/ummanmemmedov2005)
+[![Stack Overflow](https://go-skill-icons.vercel.app/api/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
+[![Daily.dev](https://go-skill-icons.vercel.app/api/icons?i=dailydev)](https://app.daily.dev/umman)
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x)](https://x.com/UmmanBHOS)
 
 <details open> 
   <summary><h1>🎯 My Skills</h1></summary>
