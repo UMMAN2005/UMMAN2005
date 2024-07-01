@@ -1,4 +1,8 @@
-# Hey there, I'm Umman! 👋
+<h1 align="center"> Hey there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Umman!
+</h1>
 
 <!--
 <p align="center" >CHECK OUT MY FUN <a href="https://umman2005.github.io/2D-Game_Portfolio/" >PORTFOLIO!</a> 🤩
