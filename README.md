@@ -82,16 +82,22 @@
 [![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
 
 ### ⚙️ Backend
-[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,dotnet,mongodb,redis,blazor,swagger,npm,yarn,nodejs,express,pug,postgres,mysql,dbeaver,sequelize)](https://skillicons.dev)
+[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,blazor,swagger,npm,yarn,nodejs,express,flask,pug,sequelize)](https://skillicons.dev)
+
+### 🛢️ Database
+[![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,firebase,postgres,mysql,dbeaver)](https://skillicons.dev)
 
 ### ⛓️ Blockchain
 [![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)](https://skillicons.dev)
 
 ### 🛡️ Cyber Security
-[![Cybersecurity Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,wsl,kde,gnome)](https://skillicons.dev)
+[![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,wsl,kde,gnome)](https://skillicons.dev)
+
+### ♾️ DebOps
+[![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,git)](https://skillicons.dev)
 
 ### 🛠️ Tools
-[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,git,clion,pycharm,notion,obsidian,sublime,vim,visualstudio,vscode,chatgpt)](https://skillicons.dev)
+[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,notion,obsidian,canva,sublime,vim,visualstudio,vscode,chatgpt,flameshot)](https://skillicons.dev)
 </details>
 
 # 🏆 My Trophies
