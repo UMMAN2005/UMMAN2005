@@ -66,38 +66,41 @@
 [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
 [![Discord](https://go-skill-icons.vercel.app/api/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
 [![Dev.to](https://go-skill-icons.vercel.app/api/icons?i=devto)](https://dev.to/umman2005)
-[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:ummanmemmedov2005gmail.com)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:ummanmemmedov2005@gmail.com)
+[![Proton](https://go-skill-icons.vercel.app/api/icons?i=proton)](mailto:ummanmemmedov2005@proton.me)
 [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/UMMAN2005)
 [![GitLab](https://go-skill-icons.vercel.app/api/icons?i=gitlab)](https://gitlab.com/ummanmemmedov2005)
 [![Stack Overflow](https://go-skill-icons.vercel.app/api/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
 [![Daily.dev](https://go-skill-icons.vercel.app/api/icons?i=dailydev)](https://app.daily.dev/umman)
+[![Mastodon](https://go-skill-icons.vercel.app/api/icons?i=mastodon)](https://mastodon.social/@umman)
+[![Steam](https://go-skill-icons.vercel.app/api/icons?i=steam)](https://mastodon.social/@umman)
 
 <details open> 
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-[![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,gtk,md)](https://skillicons.dev)
+![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,r,gtk,md,regex)
 
 ### ✨ Frontend
-[![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter)](https://skillicons.dev)
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter)
 
 ### ⚙️ Backend
-[![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,blazor,swagger,npm,yarn,nodejs,express,flask,pug,sequelize)](https://skillicons.dev)
+![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,mongoose,blazor,netlify,swagger,graphql,rabbitmq,npm,yarn,nodejs,express,flask,pug,sequelize)
 
 ### 🛢️ Database
-[![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,firebase,postgres,mysql,dbeaver)](https://skillicons.dev)
+![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,firebase,sqlserver,sqlite,postgres,mysql,dbeaver)
 
 ### ⛓️ Blockchain
-[![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)](https://skillicons.dev)
+![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)
 
 ### 🛡️ Cyber Security
-[![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,windows,apple,bash,powershell,wsl,kde,gnome)](https://skillicons.dev)
+![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,linux,redhat,kali,raspberrypi,windows,apple,bash,powershell,wsl,kde,gnome)
 
 ### ♾️ DebOps
-[![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,git)](https://skillicons.dev)
+![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,git,jenkins,prometheus)
 
 ### 🛠️ Tools
-[![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=clion,pycharm,notion,obsidian,canva,sublime,vim,visualstudio,vscode,chatgpt,flameshot)](https://skillicons.dev)
+![Tools Skills](https://go-skill-icons.vercel.app/api/icons?i=flameshot,clion,pycharm,goland,resharper,androidstudio,notion,obsidian,canva,sublime,vim,visualstudio,vscode,chatgpt,gemini,microsoftcopilot,githubcopilot)
 </details>
 
 # 🏆 My Trophies
