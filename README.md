@@ -20,7 +20,7 @@
   </a>
 </p>
 
-![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](https://github.com/UMMAN2005/CLOUD/blob/main/GitHub.gif)
+![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](GitHub.gif)
 
 # 📊 GitHub Stats
 
