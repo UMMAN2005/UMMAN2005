@@ -87,7 +87,7 @@
 ![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter,webpack)
 
 ### ⚙️ Backend
-![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,mongoose,blazor,netlify,vercel,swagger,graphql,rabbitmq,npm,yarn,nodejs,express,flask,pug,sequelize)
+![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,mongoose,blazor,netlify,vercel,render,api,swagger,graphql,rabbitmq,npm,yarn,nodejs,express,flask,pug,sequelize)
 
 ### 🛢️ Database
 ![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,sqlite,redis,firebase,sqlserver,postgres,mysql)
