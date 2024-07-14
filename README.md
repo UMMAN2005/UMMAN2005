@@ -84,7 +84,7 @@
 ![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,r,gtk,md,regex)
 
 ### ✨ Frontend
-![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,flutter,webpack)
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,wasm,flutter,webpack)
 
 ### ⚙️ Backend
 ![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,mongoose,blazor,netlify,vercel,render,api,swagger,graphql,rabbitmq,npm,yarn,nodejs,express,flask,pug,sequelize)
@@ -99,7 +99,7 @@
 ![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,tmux,linux,redhat,kali,raspberrypi,windows,apple,bash,powershell,wsl,kde,gnome)
 
 ### ♾️ DebOps
-![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,prometheus,git,jenkins,vagrant)
+![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,prometheus,ansible,git,helm,jenkins,vagrant)
 
 ### 🛠️ Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,clion,pycharm,webstorm,goland,datagrip,resharper,androidstudio,dbeaver,notion,obsidian,canva,sublime,vim,visualstudio,vscode,chatgpt,gemini,microsoftcopilot,githubcopilot)
