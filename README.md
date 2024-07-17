@@ -81,10 +81,10 @@
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,r,gtk,md,regex)
+![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,gtk,md,regex)
 
 ### ✨ Frontend
-![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,wasm,flutter,webpack)
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,wasm,flutter)
 
 ### ⚙️ Backend
 ![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,mongoose,blazor,netlify,vercel,render,api,swagger,graphql,rabbitmq,npm,yarn,nodejs,express,flask,pug,sequelize)
@@ -102,7 +102,7 @@
 ![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,prometheus,ansible,git,helm,jenkins,vagrant)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,clion,pycharm,webstorm,goland,datagrip,resharper,androidstudio,dbeaver,notion,obsidian,canva,sublime,vim,visualstudio,vscode,chatgpt,gemini,microsoftcopilot,githubcopilot)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,pycharm,datagrip,resharper,dbeaver,notion,canva,sublime,vim,visualstudio,vscode,chatgpt,gemini,microsoftcopilot,githubcopilot)
 
 </details>
 
