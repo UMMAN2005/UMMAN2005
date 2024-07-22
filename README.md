@@ -102,7 +102,7 @@
 ![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,prometheus,ansible,git,helm,jenkins,vagrant)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,pycharm,datagrip,resharper,dbeaver,notion,canva,sublime,vim,visualstudio,vscode,chatgpt,gemini,microsoftcopilot,githubcopilot)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,pycharm,datagrip,resharper,dbeaver,notion,canva,sublime,vim,visualstudio,vscode,ollama,chatgpt,gemini,microsoftcopilot,githubcopilot)
 
 </details>
 
