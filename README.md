@@ -81,7 +81,7 @@
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,gtk,md,regex)
+![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,scratch,asm,rust,py,dart,gtk,langchain,md,regex)
 
 ### ✨ Frontend
 ![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,wasm,flutter)
