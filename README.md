@@ -99,7 +99,7 @@
 ![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,tmux,linux,redhat,kali,raspberrypi,windows,apple,bash,powershell,wsl,kde,gnome)
 
 ### ♾️ DebOps
-![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=docker,kubernetes,prometheus,ansible,terraform,git,helm,jenkins,vagrant,dockerswarm)
+![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,prometheus,ansible,terraform,git,helm,jenkins,vagrant)
 
 ### 🛠️ Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,pycharm,datagrip,resharper,dbeaver,notion,canva,sublime,vim,visualstudio,vscode,ollama,chatgpt,gemini,microsoftcopilot,githubcopilot)
