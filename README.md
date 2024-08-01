@@ -104,6 +104,9 @@
 ### 🛠️ Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,pycharm,datagrip,resharper,dbeaver,notion,canva,sublime,vim,visualstudio,vscode,ollama,chatgpt,gemini,microsoftcopilot,githubcopilot)
 
+### TRIAL
+![Trial](https://skill-icons-go.vercel.app/api/icons?i=dockerswarm)
+
 </details>
 
 # 🏆 My Trophies
