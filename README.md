@@ -92,7 +92,7 @@
 ![Cyber Security Skills](https://skill-icons-go.vercel.app/api/icons?i=debian,ubuntu,tmux,linux,redhat,kali,windows,bash,powershell,wsl,kde,gnome)
 
 ### ♾️ DevOps
-![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=docker,kubernetes,prometheus,ansible,argocd,terraform,dockerswarm,git,helm,jenkins,vagrant,packer)
+![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=docker,kubernetes,prometheus,ansible,argocd,terraform,dockerswarm,git,helm,jenkins,circleci,vagrant,packer)
 
 ### 🛠️ Tools
 ![Tools](https://skill-icons-go.vercel.app/api/icons?i=flameshot,pycharm,datagrip,resharper,dbeaver,notion,canva,vim,visualstudio,vscode,ollama)
