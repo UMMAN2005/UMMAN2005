@@ -77,10 +77,10 @@
 ![General Skills](https://skill-icons-go.vercel.app/api/icons?i=c,cpp,cs,go,asm,rust,py,dart,gtk,md,regex)
 
 ### ✨ Frontend
-![Frontend Skills](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,flutter,svg)
+![Frontend Skills](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,blazor,flutter,svg)
 
 ### ⚙️ Backend
-![Backend Skills](https://skill-icons-go.vercel.app/api/icons?i=postman,ngrok,dotnet,mongoose,blazor,netlify,vercel,render,api,swagger,graphql,rabbitmq,npm,nodejs,express,flask,pug,sequelize)
+![Backend Skills](https://skill-icons-go.vercel.app/api/icons?i=postman,ngrok,dotnet,fastapi,mongoose,netlify,vercel,render,api,swagger,graphql,rabbitmq,npm,nodejs,express,flask,pug,sequelize)
 
 ### 🛢️ Database
 ![Database Skills](https://skill-icons-go.vercel.app/api/icons?i=mongodb,sqlite,redis,firebase,sqlserver,postgres,mysql)
