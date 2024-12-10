@@ -20,8 +20,6 @@
   </a>
 </p>
 
-![Hey there, I'm Umman. I'm a software developer, a blockchain enthusiast and cybersecurity student. Check out my work](GitHub.gif)
-
 # 📊 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
