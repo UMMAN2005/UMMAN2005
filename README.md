@@ -81,7 +81,7 @@
 ![Backend Skills](https://skill-icons-go.vercel.app/api/icons?i=postman,ngrok,dotnet,fastapi,mongoose,heroku,netlify,vercel,render,api,swagger,graphql,rabbitmq,npm,nodejs,express,flask,pug,sequelize)
 
 ### 🛢️ Database
-![Database Skills](https://skill-icons-go.vercel.app/api/icons?i=mongodb,sqlite,redis,firebase,sqlserver,postgres,mysql)
+![Database Skills](https://skill-icons-go.vercel.app/api/icons?i=mongodb,redis,firebase,sqlserver,postgres,mysql)
 
 ### ⛓️ Blockchain
 ![Blockchain Skills](https://skill-icons-go.vercel.app/api/icons?i=solidity,infura,chainlink,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)
