@@ -59,8 +59,10 @@
 
 # 🌐 Social
 [![X](https://skill-icons-go.vercel.app/api/icons?i=x)](https://x.com/UmmanBHOS)
-[![Instagram](https://skill-icons-go.vercel.app/api/icons?i=instagram)](https://www.instagram.com/ummanmmmdv/)
-[![LinkedIn](https://skill-icons-go.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov-947436277/)
+[![Instagram](https://skill-icons-go.vercel.app/api/icons?i=instagram)](https://www.instagram.com/ummanmmmdv)
+[![Facebook](https://skill-icons-go.vercel.app/api/icons?i=facebook)](https://www.facebook.com/ummanmmmdv)
+[![LinkedIn](https://skill-icons-go.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov)
+[![Reddit](https://skill-icons-go.vercel.app/api/icons?i=reddit)](https://www.reddit.com/user/Umman2005)
 [![Discord](https://skill-icons-go.vercel.app/api/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
 [![Gmail](https://skill-icons-go.vercel.app/api/icons?i=gmail)](mailto:ummanmemmedov2005@gmail.com)
 [![Proton](https://skill-icons-go.vercel.app/api/icons?i=proton)](mailto:ummanmemmedov2005@proton.me)
