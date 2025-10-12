@@ -47,55 +47,51 @@
   <img src="https://img.shields.io/badge/Polygon-FCD535?style=for-the-badge&logo=polygon&color=8247e5" />
 </div>
 
-```
+```plaintext
 0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e
 ```
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/umman">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-</p>
 
 # 🌐 Social
 [![X](https://skill-icons-go.vercel.app/api/icons?i=x)](https://x.com/UmmanBHOS)
 [![Instagram](https://skill-icons-go.vercel.app/api/icons?i=instagram)](https://www.instagram.com/ummanmmmdv)
 [![Facebook](https://skill-icons-go.vercel.app/api/icons?i=facebook)](https://www.facebook.com/ummanmmmdv)
 [![LinkedIn](https://skill-icons-go.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/umman-mammadov)
-[![Reddit](https://skill-icons-go.vercel.app/api/icons?i=reddit)](https://www.reddit.com/user/Umman2005)
+[![Reddit](https://go-skill-icons.vercel.app/api/icons?i=reddit)](https://www.reddit.com/user/Umman2005)
 [![Discord](https://skill-icons-go.vercel.app/api/icons?i=discord)](https://discordapp.com/users/1172790469281972274)
+[![Bluesky](https://go-skill-icons.vercel.app/api/icons?i=bluesky)](https://bsky.app/profile/umman2005.bsky.social)
 [![Gmail](https://skill-icons-go.vercel.app/api/icons?i=gmail)](mailto:ummanmemmedov2005@gmail.com)
 [![Proton](https://skill-icons-go.vercel.app/api/icons?i=proton)](mailto:ummanmemmedov2005@proton.me)
 [![GitHub](https://skill-icons-go.vercel.app/api/icons?i=github)](https://github.com/UMMAN2005)
 [![GitLab](https://skill-icons-go.vercel.app/api/icons?i=gitlab)](https://gitlab.com/ummanmemmedov2005)
 [![Stack Overflow](https://skill-icons-go.vercel.app/api/icons?i=stackoverflow)](https://stackoverflow.com/users/23028334/umman-mammadov)
+[![Hackerrank](https://go-skill-icons.vercel.app/api/icons?i=hackerrank)](https://www.hackerrank.com/profile/umman)
 
 <details open> 
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-![General Skills](https://skill-icons-go.vercel.app/api/icons?i=c,cpp,cs,go,asm,rust,py,dart,gtk,md,regex)
+![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,asm,rust,py,dart,gtk,md,json,yaml,regex,latex)
 
 ### ✨ Frontend
-![Frontend Skills](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,jquery,blazor,flutter,svg)
+![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,blazor,flutter,flutterflow,svg)
 
 ### ⚙️ Backend
-![Backend Skills](https://skill-icons-go.vercel.app/api/icons?i=postman,ngrok,dotnet,fastapi,mongoose,heroku,netlify,vercel,render,api,swagger,graphql,rabbitmq,npm,nodejs,express,flask,pug,sequelize)
+![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,fastapi,mongoose,heroku,netlify,vercel,render,railway,api,jwt,swagger,graphql,rabbitmq,npm,nodejs,express,axios,stripe,flask,pug,sequelize,dapper,sqlalchemy)
 
 ### 🛢️ Database
-![Database Skills](https://skill-icons-go.vercel.app/api/icons?i=mongodb,redis,firebase,sqlserver,postgres,mysql)
+![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,firebase,sqlserver,postgres,mysql)
 
 ### ⛓️ Blockchain
-![Blockchain Skills](https://skill-icons-go.vercel.app/api/icons?i=solidity,infura,chainlink,alchemy,vyper,hardhat,truffle,ganache,ipfs,openzeppelin)
+![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,chainlink,uniswap,alchemy,vyper,hardhat,foundry,truffle,ganache,apeworx,ipfs,openzeppelin,ethereum)
 
 ### 🛡️ Cyber Security
-![Cyber Security Skills](https://skill-icons-go.vercel.app/api/icons?i=debian,ubuntu,tmux,linux,redhat,kali,windows,bash,powershell,wsl,kde,gnome)
+![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,tailsos,tmux,burpsuite,redhat,kali,qubesos,wsl,linux,windows,bash,terminal,gitbash,powershell,kde,gnome)
 
 ### ♾️ DevOps
 ![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,docker,ansible,prometheus,grafana,elasticsearch,logstash,fluentd,kibana,terraform,vault,consul,vagrant,packer,dockerswarm,git,istio,linkerd,helm,kustomize,argocd,flux,sonarqube,jenkins,circleci,githubactions,digitalocean,azure,gcp,aws)
 
 ### 🛠️ Tools
-![Tools](https://skill-icons-go.vercel.app/api/icons?i=flameshot,pycharm,datagrip,resharper,dbeaver,notion,canva,vim,visualstudio,vscode,ollama)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,gemini,authenticator,notion,jira,confluence,canva,vim,visualstudio,vscode,cursor,ollama)
 
 
 </details>
