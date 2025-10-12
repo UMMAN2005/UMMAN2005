@@ -70,7 +70,7 @@
   <summary><h1>🎯 My Skills</h1></summary>
 
 ### 💻 General
-![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,asm,rust,py,dart,gtk,md,json,yaml,regex,latex)
+![General Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,go,asm,rust,py,dart,gtk,md,json,yaml,regex,latex,opensource)
 
 ### ✨ Frontend
 ![Frontend Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap,jquery,blazor,flutter,flutterflow,svg)
@@ -79,7 +79,7 @@
 ![Backend Skills](https://go-skill-icons.vercel.app/api/icons?i=postman,ngrok,dotnet,fastapi,mongoose,heroku,netlify,vercel,render,railway,api,jwt,swagger,graphql,rabbitmq,npm,nodejs,express,axios,stripe,flask,pug,sequelize,dapper,sqlalchemy)
 
 ### 🛢️ Database
-![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,firebase,sqlserver,postgres,mysql)
+![Database Skills](https://go-skill-icons.vercel.app/api/icons?i=mongodb,redis,firebase,sqlserver,postgres,mysql,etcd,elasticsearch)
 
 ### ⛓️ Blockchain
 ![Blockchain Skills](https://go-skill-icons.vercel.app/api/icons?i=solidity,infura,chainlink,uniswap,alchemy,vyper,hardhat,foundry,truffle,ganache,apeworx,ipfs,openzeppelin,ethereum)
@@ -88,10 +88,10 @@
 ![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,tailsos,tmux,burpsuite,redhat,kali,qubesos,wsl,linux,windows,bash,terminal,gitbash,powershell,kde,gnome)
 
 ### ♾️ DevOps
-![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,docker,ansible,prometheus,grafana,elasticsearch,logstash,fluentd,kibana,terraform,vault,consul,vagrant,packer,dockerswarm,git,istio,linkerd,helm,kustomize,argocd,flux,sonarqube,jenkins,circleci,githubactions,digitalocean,azure,gcp,aws)
+![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,docker,nginx,ansible,prometheus,grafana,elasticsearch,logstash,fluentd,kibana,terraform,vault,vagrant,packer,dockerswarm,git,istio,linkerd,helm,kustomize,argocd,flux,sonarqube,jenkins,circleci,githubactions,digitalocean,azure,gcp,aws) ![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=opentelemetry,consul,jaeger,systemd,rancher)
 
 ### 🛠️ Tools
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,gemini,authenticator,notion,jira,confluence,canva,vim,visualstudio,vscode,cursor,ollama)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,gemini,authenticator,notion,overleaf,jira,confluence,slack,canva,vim,visualstudio,vscode,cursor,ollama)
 
 
 </details>
