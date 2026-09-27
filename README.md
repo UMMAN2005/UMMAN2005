@@ -4,6 +4,11 @@
          width="45" /> I'm Umman!
 </h1>
 
+<p align="center">
+  <a href="https://umman2005.github.io/UMMAN2005/CV.pdf">CV (PDF)</a> ·
+  <a href="https://umman2005.github.io/UMMAN2005/">Website</a>
+</p>
+
 <!--
 <p align="center" >CHECK OUT MY FUN <a href="https://umman2005.github.io/2D-Game_Portfolio/" >PORTFOLIO!</a> 🤩
 -->
@@ -88,7 +93,7 @@
 ![Cyber Security Skills](https://go-skill-icons.vercel.app/api/icons?i=debian,ubuntu,tailsos,tmux,burpsuite,redhat,kali,qubesos,wsl,linux,windows,bash,terminal,gitbash,powershell,kde,gnome)
 
 ### ♾️ DevOps
-![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,docker,nginx,ansible,prometheus,grafana,elasticsearch,logstash,fluentd,kibana,terraform,vault,vagrant,packer,dockerswarm,git,istio,linkerd,helm,kustomize,argocd,flux,sonarqube,jenkins,circleci,githubactions,digitalocean,azure,gcp,aws) ![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=opentelemetry,consul,jaeger,systemd,rancher)
+![DevOps Skills](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,docker,nginx,ansible,prometheus,grafana,elasticsearch,logstash,fluentd,kibana,terraform,vault,vagrant,packer,git,istio,linkerd,helm,kustomize,argocd,flux,sonarqube,jenkins,circleci,githubactions,digitalocean,azure,gcp,aws) ![DevOps Skills](https://go-skill-icons.vercel.app/api/icons?i=opentelemetry,consul,jaeger,systemd,rancher)
 
 ### 🛠️ Tools
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=flameshot,gemini,authenticator,notion,overleaf,jira,confluence,slack,canva,vim,visualstudio,vscode,cursor,ollama)
