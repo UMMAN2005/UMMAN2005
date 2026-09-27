@@ -44,19 +44,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl rollout` completes in zero downtime. 🎉
-
-- 🧠 My brain runs on **coffee** and **YAML** — roughly in equal parts
-- 🔭 Currently exploring the intersection of **Web3 infrastructure** and **cloud-native platforms** (yes, blockchains need Kubernetes too)
-- 🐛 My idea of a fun Friday evening: tuning Prometheus alerting rules until everything is perfectly silent
-- ⚙️ I automate literally everything — if I do something twice, there will be a pipeline for it by the third time
-- 🌱 Always learning something new: recently down the rabbit hole of **eBPF**, **Cilium**, and **distributed tracing**
-- 🎓 Based in Baku, studying at **BHOS** by day, breaking and fixing clusters by night
-
----
-
 ### 🛠️ Tech Stack & Platform Engineering Toolkit
 
 <details open>
@@ -71,7 +58,7 @@ I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl r
 <summary><b>☸️ Containers & Kubernetes Orchestration</b></summary>
 <br/>
 
-[![Kubernetes Ecosystem](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,docker,helm,kustomize,argocd,flux)](https://github.com/UMMAN2005/skill-icons)
+[![Kubernetes Ecosystem](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,docker,helm,kustomize,argocd,flux,kargo)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -87,7 +74,7 @@ I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl r
 <summary><b>🕸️ Service Mesh, Networking & Ingress</b></summary>
 <br/>
 
-[![Service Mesh & Networking](https://skill-icons-go.vercel.app/api/icons?i=cilium,istio,linkerd,consul,nginx,cloudflare)](https://github.com/UMMAN2005/skill-icons)
+[![Service Mesh & Networking](https://skill-icons-go.vercel.app/api/icons?i=cilium,istio,linkerd,consul,nginx,haproxy)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -103,7 +90,15 @@ I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl r
 <summary><b>🔒 Security, Compliance & Secrets Management</b></summary>
 <br/>
 
-[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,falco,trivy,certmanager,kubescape,sonarqube)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,falco,trivy,certmanager,kubescape,sonarqube,opa,kyverno)](https://github.com/UMMAN2005/skill-icons)
+
+</details>
+
+<details open>
+<summary><b>🏗️ Developer Platforms & Portals</b></summary>
+<br/>
+
+[![Developer Platforms](https://skill-icons-go.vercel.app/api/icons?i=backstage)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -111,7 +106,7 @@ I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl r
 <summary><b>💾 Storage, Messaging & Container Registry</b></summary>
 <br/>
 
-[![Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=longhorn,harbor,kafka,rabbitmq,redis)](https://github.com/UMMAN2005/skill-icons)
+[![Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=longhorn,harbor,rabbitmq,redis)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -127,7 +122,7 @@ I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl r
 <summary><b>💻 Languages, Scripting & Operating Systems</b></summary>
 <br/>
 
-[![Languages & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,bash,linux,ubuntu,debian,redhat,c,rust,git)](https://github.com/UMMAN2005/skill-icons)
+[![Languages & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,bash,linux,ubuntu,debian,redhat,c,cpp,cs,rust,git)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -135,7 +130,15 @@ I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl r
 <summary><b>🧰 Platform Tooling & Environments</b></summary>
 <br/>
 
-[![Tools](https://skill-icons-go.vercel.app/api/icons?i=vim,vscode,zed,postman,ollama)](https://github.com/UMMAN2005/skill-icons)
+[![Tools](https://skill-icons-go.vercel.app/api/icons?i=vim,vscode,zed,ollama)](https://github.com/UMMAN2005/skill-icons)
+
+</details>
+
+<details open>
+<summary><b>📦 Package Managers & Build Tools</b></summary>
+<br/>
+
+[![Package Managers](https://skill-icons-go.vercel.app/api/icons?i=nixos,nix,npm,uv)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
