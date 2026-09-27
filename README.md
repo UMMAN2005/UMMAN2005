@@ -46,52 +46,14 @@
 
 ### 👨‍💻 About Me
 
-- ☁️ **Specialization:** Cloud-Native Architecture, Kubernetes Orchestration, Platform Engineering & GitOps.
-- 🛠️ **Infrastructure as Code:** Provisioning automated, reproducible environments with **Terraform**, **Terragrunt**, **Crossplane**, and **Ansible**.
-- ☸️ **Orchestration & Mesh:** Designing production-grade clusters with **Kubernetes**, **RKE2**, **ArgoCD**, **Cilium**, and **Istio**.
-- 📈 **Observability & Reliability:** Distributed tracing, metrics, and centralized logging with **Prometheus**, **Grafana**, **Loki**, **Tempo**, and **OpenTelemetry**.
-- 🔒 **Security & Governance:** DevSecOps automation, secret synchronization, and runtime security with **Vault**, **External Secrets**, **Falco**, and **Trivy**.
-- 🎓 **Education & Background:** Baku Higher Oil School (BHOS).
+I'm a DevOps & Platform Engineer who gets unreasonably excited when a `kubectl rollout` completes in zero downtime. 🎉
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes_Administration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Administration" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Terraform_IaC_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform IaC" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS_Cloud_Architecture-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Linux_System_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Administration" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/umman-mammadov"><img src="https://skill-icons-go.vercel.app/api/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://github.com/UMMAN2005"><img src="https://skill-icons-go.vercel.app/api/icons?i=github" alt="GitHub" /></a>&nbsp;
-  <a href="https://gitlab.com/ummanmemmedov2005"><img src="https://skill-icons-go.vercel.app/api/icons?i=gitlab" alt="GitLab" /></a>&nbsp;
-  <a href="mailto:umman.mammadov@gmail.com"><img src="https://skill-icons-go.vercel.app/api/icons?i=gmail" alt="Gmail" /></a>&nbsp;
-  <a href="mailto:ummanmemmedov2005@proton.me"><img src="https://skill-icons-go.vercel.app/api/icons?i=proton" alt="Proton" /></a>&nbsp;
-  <a href="https://x.com/umman2005"><img src="https://skill-icons-go.vercel.app/api/icons?i=x" alt="X" /></a>&nbsp;
-  <a href="https://discordapp.com/users/1172790469281972274"><img src="https://skill-icons-go.vercel.app/api/icons?i=discord" alt="Discord" /></a>&nbsp;
-  <a href="https://stackoverflow.com/users/23028334/umman-mammadov"><img src="https://skill-icons-go.vercel.app/api/icons?i=stackoverflow" alt="Stack Overflow" /></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/umman"><img src="https://skill-icons-go.vercel.app/api/icons?i=hackerrank" alt="HackerRank" /></a>&nbsp;
-  <a href="https://bsky.app/profile/umman2005.bsky.social"><img src="https://skill-icons-go.vercel.app/api/icons?i=bluesky" alt="Bluesky" /></a>&nbsp;
-  <a href="https://www.instagram.com/ummanmmmdv"><img src="https://skill-icons-go.vercel.app/api/icons?i=instagram" alt="Instagram" /></a>
-</p>
-
----
-
-### 📐 Architectural Pillars & Production Competencies
-
-| Engineering Pillar | Key Principles & Methodologies | Core Implementation Stack |
-| :--- | :--- | :--- |
-| **Cloud-Native Platforms** | Multi-tenant cluster architecture, declarative GitOps continuous delivery, self-healing nodes, zero-downtime rolling deployments | Kubernetes, RKE2, ArgoCD, Flux CD, Crossplane |
-| **Infrastructure as Code** | Immutable infrastructure, modular configuration patterns, automated state management, multi-cloud topology | Terraform, Terragrunt, Ansible, Packer |
-| **Networking & Service Mesh** | Zero-trust service communication, mutual TLS (mTLS), layer 7 traffic shaping, eBPF-powered network observability | Cilium, Istio, Linkerd, Kuma, NGINX |
-| **SRE & Observability** | Golden signals telemetry, distributed tracing, automated SLO/SLI alerting, MTTR reduction via centralized telemetry | Prometheus, Grafana, Loki, Tempo, OpenTelemetry |
-| **DevSecOps & Compliance** | Dynamic secret leasing & rotation, shift-left container scanning, policy-as-code enforcement, runtime threat detection | HashiCorp Vault, External Secrets, Falco, Trivy |
+- 🧠 My brain runs on **coffee** and **YAML** — roughly in equal parts
+- 🔭 Currently exploring the intersection of **Web3 infrastructure** and **cloud-native platforms** (yes, blockchains need Kubernetes too)
+- 🐛 My idea of a fun Friday evening: tuning Prometheus alerting rules until everything is perfectly silent
+- ⚙️ I automate literally everything — if I do something twice, there will be a pipeline for it by the third time
+- 🌱 Always learning something new: recently down the rabbit hole of **eBPF**, **Cilium**, and **distributed tracing**
+- 🎓 Based in Baku, studying at **BHOS** by day, breaking and fixing clusters by night
 
 ---
 
@@ -101,7 +63,7 @@
 <summary><b>☁️ Cloud & Infrastructure as Code (IaC)</b></summary>
 <br/>
 
-[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,terraform,terragrunt,crossplane,ansible,packer,vagrant,vmware)](https://github.com/UMMAN2005/skill-icons)
+[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,terraform,terragrunt,crossplane,opentofu,ansible,packer,vagrant,vmware)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -109,7 +71,7 @@
 <summary><b>☸️ Containers & Kubernetes Orchestration</b></summary>
 <br/>
 
-[![Kubernetes Ecosystem](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,docker,helm,kustomize,argocd,flux,rancher)](https://github.com/UMMAN2005/skill-icons)
+[![Kubernetes Ecosystem](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,docker,helm,kustomize,argocd,flux)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -125,7 +87,7 @@
 <summary><b>🕸️ Service Mesh, Networking & Ingress</b></summary>
 <br/>
 
-[![Service Mesh & Networking](https://skill-icons-go.vercel.app/api/icons?i=cilium,istio,linkerd,kuma,consul,nginx,cloudflare)](https://github.com/UMMAN2005/skill-icons)
+[![Service Mesh & Networking](https://skill-icons-go.vercel.app/api/icons?i=cilium,istio,linkerd,consul,nginx,cloudflare)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -133,7 +95,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,tempo,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,tempo,mimir,pyroscope,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -141,7 +103,7 @@
 <summary><b>🔒 Security, Compliance & Secrets Management</b></summary>
 <br/>
 
-[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,falco,trivy,certmanager,sonarqube)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,falco,trivy,certmanager,kubescape,sonarqube)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -149,7 +111,7 @@
 <summary><b>💾 Storage, Messaging & Container Registry</b></summary>
 <br/>
 
-[![Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=minio,longhorn,harbor,kafka,rabbitmq,redis)](https://github.com/UMMAN2005/skill-icons)
+[![Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=longhorn,harbor,kafka,rabbitmq,redis)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -173,7 +135,7 @@
 <summary><b>🧰 Platform Tooling & Environments</b></summary>
 <br/>
 
-[![Tools](https://skill-icons-go.vercel.app/api/icons?i=vim,vscode,tmux,postman,ollama)](https://github.com/UMMAN2005/skill-icons)
+[![Tools](https://skill-icons-go.vercel.app/api/icons?i=vim,vscode,zed,postman,ollama)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -182,10 +144,10 @@
 <br/>
 
 #### Application Development & APIs
-[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=ts,js,nodejs,fastapi,flask,dotnet,graphql,tailwind,react,nextjs)](https://github.com/UMMAN2005/skill-icons)
+[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=ts,js,html,css,bootstrap,nodejs,fastapi,flask,blazor,dotnet,graphql)](https://github.com/UMMAN2005/skill-icons)
 
 #### Blockchain & Smart Contracts
-[![Web3](https://skill-icons-go.vercel.app/api/icons?i=solidity,ethereum,hardhat,foundry,ipfs,chainlink)](https://github.com/UMMAN2005/skill-icons)
+[![Web3](https://skill-icons-go.vercel.app/api/icons?i=solidity,vyper,ethereum,hardhat,foundry,ipfs,chainlink,infura,alchemy)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -216,14 +178,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=UMMAN2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=MultiLanguage,Repositories,Commits,Followers,Issues,Experience,PullRequest,Stars" alt="GitHub Trophies" />
   </a>
-</p>
-
----
-
-### 🎮 Contribution Activity
-
-<p align="center">
-  <img width="980" src="github-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
