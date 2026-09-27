@@ -53,6 +53,16 @@
 - 🔒 **Security & Governance:** DevSecOps automation, secret synchronization, and runtime security with **Vault**, **External Secrets**, **Falco**, and **Trivy**.
 - 🎓 **Education & Background:** Baku Higher Oil School (BHOS).
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes_Administration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Administration" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Terraform_IaC_Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform IaC" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AWS_Cloud_Architecture-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux_System_Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Administration" />
+</p>
+
 ---
 
 ### 🌐 Connect With Me
@@ -70,6 +80,18 @@
   <a href="https://bsky.app/profile/umman2005.bsky.social"><img src="https://skill-icons-go.vercel.app/api/icons?i=bluesky" alt="Bluesky" /></a>&nbsp;
   <a href="https://www.instagram.com/ummanmmmdv"><img src="https://skill-icons-go.vercel.app/api/icons?i=instagram" alt="Instagram" /></a>
 </p>
+
+---
+
+### 📐 Architectural Pillars & Production Competencies
+
+| Engineering Pillar | Key Principles & Methodologies | Core Implementation Stack |
+| :--- | :--- | :--- |
+| **Cloud-Native Platforms** | Multi-tenant cluster architecture, declarative GitOps continuous delivery, self-healing nodes, zero-downtime rolling deployments | Kubernetes, RKE2, ArgoCD, Flux CD, Crossplane |
+| **Infrastructure as Code** | Immutable infrastructure, modular configuration patterns, automated state management, multi-cloud topology | Terraform, Terragrunt, Ansible, Packer |
+| **Networking & Service Mesh** | Zero-trust service communication, mutual TLS (mTLS), layer 7 traffic shaping, eBPF-powered network observability | Cilium, Istio, Linkerd, Kuma, NGINX |
+| **SRE & Observability** | Golden signals telemetry, distributed tracing, automated SLO/SLI alerting, MTTR reduction via centralized telemetry | Prometheus, Grafana, Loki, Tempo, OpenTelemetry |
+| **DevSecOps & Compliance** | Dynamic secret leasing & rotation, shift-left container scanning, policy-as-code enforcement, runtime threat detection | HashiCorp Vault, External Secrets, Falco, Trivy |
 
 ---
 
@@ -192,7 +214,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=UMMAN2005&theme=tokyonight&row=2&column=4&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=UMMAN2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=MultiLanguage,Repositories,Commits,Followers,Issues,Experience,PullRequest,Stars" alt="GitHub Trophies" />
   </a>
 </p>
 
