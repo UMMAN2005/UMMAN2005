@@ -9,8 +9,8 @@
   </a>
 
   <p align="center">
-    <a href="https://umman2005.github.io/UMMAN2005/">
-      <img src="https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
+    <a href="https://linktr.ee/ummanmm" target="_blank">
+      <img src="https://img.shields.io/badge/Linktree-100000?style=for-the-badge&logo=linktree&logoColor=43E660" alt="Linktree" />
     </a>
     &nbsp;
     <a href="https://umman2005.github.io/UMMAN2005/CV.pdf">
@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
-    <a href="mailto:ummanmemmedov2005@gmail.com">
+    <a href="mailto:umman.mammadov@gmail.com">
       <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/umman-mammadov"><img src="https://skill-icons-go.vercel.app/api/icons?i=linkedin" alt="LinkedIn" /></a>&nbsp;
   <a href="https://github.com/UMMAN2005"><img src="https://skill-icons-go.vercel.app/api/icons?i=github" alt="GitHub" /></a>&nbsp;
   <a href="https://gitlab.com/ummanmemmedov2005"><img src="https://skill-icons-go.vercel.app/api/icons?i=gitlab" alt="GitLab" /></a>&nbsp;
-  <a href="mailto:ummanmemmedov2005@gmail.com"><img src="https://skill-icons-go.vercel.app/api/icons?i=gmail" alt="Gmail" /></a>&nbsp;
+  <a href="mailto:umman.mammadov@gmail.com"><img src="https://skill-icons-go.vercel.app/api/icons?i=gmail" alt="Gmail" /></a>&nbsp;
   <a href="mailto:ummanmemmedov2005@proton.me"><img src="https://skill-icons-go.vercel.app/api/icons?i=proton" alt="Proton" /></a>&nbsp;
   <a href="https://x.com/umman2005"><img src="https://skill-icons-go.vercel.app/api/icons?i=x" alt="X" /></a>&nbsp;
   <a href="https://discordapp.com/users/1172790469281972274"><img src="https://skill-icons-go.vercel.app/api/icons?i=discord" alt="Discord" /></a>&nbsp;
