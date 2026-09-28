@@ -50,7 +50,7 @@
 <summary><b>☁️ Cloud & Infrastructure as Code (IaC)</b></summary>
 <br/>
 
-[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,terraform,terragrunt,opentofu,ansible,packer,vagrant,vmware)](https://github.com/UMMAN2005/skill-icons)
+[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,terraform,terragrunt,opentofu,ansible,crossplane,backstage,packer,vagrant,vmware,vercel)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -58,7 +58,7 @@
 <summary><b>☸️ Containers & Kubernetes Orchestration</b></summary>
 <br/>
 
-[![Kubernetes Ecosystem](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,docker,helm,kustomize,argocd,flux,kargo)](https://github.com/UMMAN2005/skill-icons)
+[![Kubernetes Ecosystem](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,docker,helm,kustomize,argocd,flux,rke2,talos,kargo)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -82,7 +82,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,alloy,opencost,loki,tempo,mimir,pyroscope,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd,dynatrace,sentry)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,alloy,loki,tempo,mimir,pyroscope,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd,dynatrace,sentry,opencost)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -90,15 +90,7 @@
 <summary><b>🔒 Security, Compliance & Secrets Management</b></summary>
 <br/>
 
-[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,falco,trivy,certmanager,kubescape,sonarqube,opa,kyverno,ossfuzz)](https://github.com/UMMAN2005/skill-icons)
-
-</details>
-
-<details open>
-<summary><b>🏗️ Developer Platforms & Delivery</b></summary>
-<br/>
-
-[![Developer Platforms](https://skill-icons-go.vercel.app/api/icons?i=crossplane,backstage,vercel)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,certmanager,trivy,falco,externalsecrets,opa,kyverno,kubescape,sonarqube,ossfuzz)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -106,7 +98,7 @@
 <summary><b>💾 Storage, Messaging & Container Registry</b></summary>
 <br/>
 
-[![Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=longhorn,harbor,rabbitmq,redis)](https://github.com/UMMAN2005/skill-icons)
+[![Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=harbor,redis,rabbitmq,longhorn)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -114,7 +106,7 @@
 <summary><b>🗄️ Databases & State Stores</b></summary>
 <br/>
 
-[![Databases](https://skill-icons-go.vercel.app/api/icons?i=postgres,mysql,mongodb,mongoose,sqlalchemy,etcd,sqlserver)](https://github.com/UMMAN2005/skill-icons)
+[![Databases](https://skill-icons-go.vercel.app/api/icons?i=postgres,mysql,mongodb,sqlserver,etcd,sqlalchemy,mongoose)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -122,7 +114,7 @@
 <summary><b>💻 Languages, Scripting & Operating Systems</b></summary>
 <br/>
 
-[![Languages, Scripting & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,bash,powershell,c,cpp,cs,rust,git,linux,ubuntu,debian,redhat,nixos,windows11)](https://github.com/UMMAN2005/skill-icons)
+[![Languages, Scripting & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,rust,bash,powershell,linux,ubuntu,debian,redhat,nixos,git,c,cpp,cs,windows11)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -130,7 +122,7 @@
 <summary><b>🧰 Editors, Formats & Tooling</b></summary>
 <br/>
 
-[![Editors & Formats](https://skill-icons-go.vercel.app/api/icons?i=vim,vscode,zed,json,yaml,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
+[![Editors & Formats](https://skill-icons-go.vercel.app/api/icons?i=vscode,vim,zed,yaml,json,markdown,regex,latex)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -138,7 +130,31 @@
 <summary><b>🤖 AI Coding Agents & Tools</b></summary>
 <br/>
 
-[![AI Coding Agents & Tools](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,githubcopilot,cursor,mcp,ollama)](https://github.com/UMMAN2005/skill-icons)
+[![AI Coding Agents & Tools](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,cursor,githubcopilot,ollama,mcp)](https://github.com/UMMAN2005/skill-icons)
+
+</details>
+
+<details>
+<summary><b>🧰 Extended Tooling, Cloud-Native Utilities & Specialized Engines</b></summary>
+<br/>
+
+#### Networking & Container Runtimes
+[![Networking & Runtimes](https://skill-icons-go.vercel.app/api/icons?i=containerd,cni,calico,flannel,coredns,kubevip,hubble)](https://github.com/UMMAN2005/skill-icons)
+
+#### Security, Vulnerability & Policy Scanning
+[![Security & SBOM](https://skill-icons-go.vercel.app/api/icons?i=sops,kubebench,syft,grype,tetragon,armo)](https://github.com/UMMAN2005/skill-icons)
+
+#### Container Build, Packaging & Delivery
+[![Build & Delivery](https://skill-icons-go.vercel.app/api/icons?i=kaniko,buildpacks,artifacthub,flagger,nexus,robusta)](https://github.com/UMMAN2005/skill-icons)
+
+#### Workload Autoscaling, Serverless & Cluster CLI
+[![Workloads & Serverless](https://skill-icons-go.vercel.app/api/icons?i=keda,knative,openfaas,telepresence,k9s)](https://github.com/UMMAN2005/skill-icons)
+
+#### Data Orchestration, Distributed SQL & Cloud Databases
+[![Data & Engines](https://skill-icons-go.vercel.app/api/icons?i=airflow,airbyte,trino,qdrant,cloudnativepg,rancher)](https://github.com/UMMAN2005/skill-icons)
+
+#### Build Automation, Load Testing & Telemetry
+[![Automation & Testing](https://skill-icons-go.vercel.app/api/icons?i=makefile,taskfile,hurl,k6,beats)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -150,7 +166,7 @@
 [![App Dev](https://skill-icons-go.vercel.app/api/icons?i=ts,js,html,css,bootstrap,nodejs,fastapi,flask,blazor,dotnet,flutter,riverpod,firebase,graphql)](https://github.com/UMMAN2005/skill-icons)
 
 #### Blockchain & Smart Contracts
-[![Web3](https://skill-icons-go.vercel.app/api/icons?i=solidity,vyper,ethereum,hyperledger,kaleido,hardhat,foundry,ipfs,chainlink,infura,alchemy)](https://github.com/UMMAN2005/skill-icons)
+[![Web3](https://skill-icons-go.vercel.app/api/icons?i=solidity,vyper,ethereum,hyperledger,kaleido,hardhat,foundry,ipfs,chainlink,infura,alchemy,metamask,rabby)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
