@@ -82,7 +82,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,alloy,loki,tempo,mimir,pyroscope,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd,dynatrace,sentry)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,alloy,opencost,loki,tempo,mimir,pyroscope,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd,dynatrace,sentry)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -114,7 +114,7 @@
 <summary><b>🗄️ Databases & State Stores</b></summary>
 <br/>
 
-[![Databases](https://skill-icons-go.vercel.app/api/icons?i=postgres,mysql,mongodb,etcd,sqlserver)](https://github.com/UMMAN2005/skill-icons)
+[![Databases](https://skill-icons-go.vercel.app/api/icons?i=postgres,mysql,mongodb,mongoose,sqlalchemy,etcd,sqlserver)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -122,7 +122,7 @@
 <summary><b>💻 Languages, Scripting & Operating Systems</b></summary>
 <br/>
 
-[![Languages, Arm Assembly & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,bash,powershell,c,cpp,cs,rust,assembly,arm,git,linux,ubuntu,debian,redhat,nixos,windows)](https://github.com/UMMAN2005/skill-icons)
+[![Languages, Scripting & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,bash,powershell,c,cpp,cs,rust,git,linux,ubuntu,debian,redhat,nixos,windows11)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -147,10 +147,10 @@
 <br/>
 
 #### Application Development & APIs
-[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=ts,js,html,css,bootstrap,nodejs,fastapi,flask,blazor,dotnet,graphql)](https://github.com/UMMAN2005/skill-icons)
+[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=ts,js,html,css,bootstrap,nodejs,fastapi,flask,blazor,dotnet,flutter,riverpod,firebase,graphql)](https://github.com/UMMAN2005/skill-icons)
 
 #### Blockchain & Smart Contracts
-[![Web3](https://skill-icons-go.vercel.app/api/icons?i=solidity,vyper,ethereum,hardhat,foundry,ipfs,chainlink,infura,alchemy)](https://github.com/UMMAN2005/skill-icons)
+[![Web3](https://skill-icons-go.vercel.app/api/icons?i=solidity,vyper,ethereum,hyperledger,kaleido,hardhat,foundry,ipfs,chainlink,infura,alchemy)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
