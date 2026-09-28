@@ -50,7 +50,7 @@
 <summary><b>☁️ Cloud & Infrastructure as Code (IaC)</b></summary>
 <br/>
 
-[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,terraform,terragrunt,crossplane,opentofu,ansible,packer,vagrant,vmware)](https://github.com/UMMAN2005/skill-icons)
+[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,terraform,terragrunt,opentofu,ansible,packer,vagrant,vmware)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -66,7 +66,7 @@
 <summary><b>🔄 CI/CD & Automation Pipelines</b></summary>
 <br/>
 
-[![CI/CD](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci)](https://github.com/UMMAN2005/skill-icons)
+[![CI/CD](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci,tekton)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -74,7 +74,7 @@
 <summary><b>🕸️ Service Mesh, Networking & Ingress</b></summary>
 <br/>
 
-[![Service Mesh & Networking](https://skill-icons-go.vercel.app/api/icons?i=cilium,istio,linkerd,consul,nginx,haproxy)](https://github.com/UMMAN2005/skill-icons)
+[![Service Mesh & Networking](https://skill-icons-go.vercel.app/api/icons?i=cilium,istio,linkerd,envoy,consul,nginx,apache,haproxy,keepalived)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -82,7 +82,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,tempo,mimir,pyroscope,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,alloy,loki,tempo,mimir,pyroscope,jaeger,opentelemetry,elasticsearch,logstash,kibana,fluentd,dynatrace,sentry)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -90,15 +90,15 @@
 <summary><b>🔒 Security, Compliance & Secrets Management</b></summary>
 <br/>
 
-[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,falco,trivy,certmanager,kubescape,sonarqube,opa,kyverno)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Secrets](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,falco,trivy,certmanager,kubescape,sonarqube,opa,kyverno,ossfuzz)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
 <details open>
-<summary><b>🏗️ Developer Platforms & Portals</b></summary>
+<summary><b>🏗️ Developer Platforms & Delivery</b></summary>
 <br/>
 
-[![Developer Platforms](https://skill-icons-go.vercel.app/api/icons?i=backstage)](https://github.com/UMMAN2005/skill-icons)
+[![Developer Platforms](https://skill-icons-go.vercel.app/api/icons?i=crossplane,backstage,vercel)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -122,23 +122,23 @@
 <summary><b>💻 Languages, Scripting & Operating Systems</b></summary>
 <br/>
 
-[![Languages & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,bash,linux,ubuntu,debian,redhat,c,cpp,cs,rust,git)](https://github.com/UMMAN2005/skill-icons)
+[![Languages, Arm Assembly & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,bash,powershell,c,cpp,cs,rust,assembly,arm,git,linux,ubuntu,debian,redhat,nixos,windows)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
 <details open>
-<summary><b>🧰 Platform Tooling & Environments</b></summary>
+<summary><b>🧰 Editors, Formats & Tooling</b></summary>
 <br/>
 
-[![Tools](https://skill-icons-go.vercel.app/api/icons?i=vim,vscode,zed,ollama)](https://github.com/UMMAN2005/skill-icons)
+[![Editors & Formats](https://skill-icons-go.vercel.app/api/icons?i=vim,vscode,zed,json,yaml,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
 <details open>
-<summary><b>📦 Package Managers & Build Tools</b></summary>
+<summary><b>🤖 AI Coding Agents & Tools</b></summary>
 <br/>
 
-[![Package Managers](https://skill-icons-go.vercel.app/api/icons?i=nixos,nix,npm,uv)](https://github.com/UMMAN2005/skill-icons)
+[![AI Coding Agents & Tools](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,githubcopilot,cursor,mcp,ollama)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
