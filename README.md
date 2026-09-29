@@ -58,7 +58,7 @@
 <summary><b>☸️ Containers & Kubernetes</b></summary>
 <br/>
 
-[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,helm,kustomize,docker,containerd)](https://github.com/UMMAN2005/skill-icons)
+[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,knative,openfaas,helm,kustomize,docker,containerd)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -66,7 +66,7 @@
 <summary><b>🔄 CI/CD, GitOps & Artifact Delivery</b></summary>
 <br/>
 
-[![CI/CD, GitOps & Registries](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci,tekton,argocd,flux,kargo,flagger,harbor,nexus,artifacthub)](https://github.com/UMMAN2005/skill-icons)
+[![CI/CD, GitOps & Registries](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci,tekton,buildpacks,kaniko,argocd,flux,kargo,flagger,harbor,nexus,artifacthub)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -90,7 +90,15 @@
 <summary><b>🔒 Security, Secrets & Access Policies</b></summary>
 <br/>
 
-[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=kyverno,opa,ranger,certmanager,vault,sops,externalsecrets,tetragon,falco,armo,trivy,kubescape,kubebench,syft,grype,cosign)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=kyverno,opa,ranger,certmanager,vault,sops,externalsecrets,tetragon,falco,sonarqube,armo,trivy,kubescape,kubebench,syft,grype,cosign)](https://github.com/UMMAN2005/skill-icons)
+
+</details>
+
+<details open>
+<summary><b>🧠 MLOps, Data Pipelines & Vector Engines</b></summary>
+<br/>
+
+[![MLOps & Data Pipelines](https://skill-icons-go.vercel.app/api/icons?i=airbyte,airflow,trino,qdrant)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -115,7 +123,7 @@
 <br/>
 
 #### Editors, Workflow, Testing & Data Access
-[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,vscode,vim,zed,makefile,taskfile,k9s,telepresence,hurl,k6,sqlalchemy,mongoose)](https://github.com/UMMAN2005/skill-icons)
+[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,vscode,vim,zed,makefile,taskfile,k9s,telepresence,hurl,k6,ossfuzz,sqlalchemy,mongoose)](https://github.com/UMMAN2005/skill-icons)
 
 #### Configuration, Documentation & Text Processing
 [![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
@@ -127,27 +135,6 @@
 <br/>
 
 [![AI Coding Agents & Tools](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,cursor,githubcopilot,ollama,mcp)](https://github.com/UMMAN2005/skill-icons)
-
-</details>
-
-<details>
-<summary><b>🧩 Platform Extensions & Specialized Engines</b></summary>
-<br/>
-
-#### Runtime & Network Extensions
-[![Network Extensions](https://skill-icons-go.vercel.app/api/icons?i=cni,flannel,kubevip)](https://github.com/UMMAN2005/skill-icons)
-
-#### Build Systems & Serverless Extensions
-[![Build & Serverless](https://skill-icons-go.vercel.app/api/icons?i=kaniko,buildpacks,artifacthub,knative,openfaas)](https://github.com/UMMAN2005/skill-icons)
-
-#### Application Monitoring, Diagnostics & Telemetry
-[![APM & Diagnostics](https://skill-icons-go.vercel.app/api/icons?i=dynatrace,sentry,beats,robusta)](https://github.com/UMMAN2005/skill-icons)
-
-#### Code Quality, Fuzzing & Security Platforms
-[![Code Quality & Security Platforms](https://skill-icons-go.vercel.app/api/icons?i=sonarqube,ossfuzz,armo)](https://github.com/UMMAN2005/skill-icons)
-
-#### Data Integration, Orchestration & Specialized Databases
-[![Data & Engines](https://skill-icons-go.vercel.app/api/icons?i=airbyte,airflow,trino,qdrant)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
