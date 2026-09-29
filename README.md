@@ -50,7 +50,7 @@
 <summary><b>☁️ Cloud, Infrastructure as Code & Developer Platforms</b></summary>
 <br/>
 
-[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,terraform,opentofu,terragrunt,ansible,packer,vmware,vagrant,crossplane,backstage)](https://github.com/UMMAN2005/skill-icons)
+[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,vmware,terraform,opentofu,terragrunt,crossplane,backstage,ansible,packer,vagrant)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -58,7 +58,7 @@
 <summary><b>☸️ Containers & Kubernetes</b></summary>
 <br/>
 
-[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=docker,containerd,kubernetes,rke2,talos,helm,kustomize,keda)](https://github.com/UMMAN2005/skill-icons)
+[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,helm,kustomize,docker,containerd)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -66,7 +66,7 @@
 <summary><b>🔄 CI/CD, GitOps & Artifact Delivery</b></summary>
 <br/>
 
-[![CI/CD, GitOps & Registries](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci,tekton,argocd,flux,kargo,flagger,harbor,nexus)](https://github.com/UMMAN2005/skill-icons)
+[![CI/CD, GitOps & Registries](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci,tekton,argocd,flux,kargo,flagger,harbor,nexus,artifacthub)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -74,7 +74,7 @@
 <summary><b>🕸️ Networking, Service Mesh & Ingress</b></summary>
 <br/>
 
-[![Networking & Service Mesh](https://skill-icons-go.vercel.app/api/icons?i=cilium,hubble,calico,coredns,istio,linkerd,envoy,consul,nginx,apache,haproxy,keepalived)](https://github.com/UMMAN2005/skill-icons)
+[![Networking & Service Mesh](https://skill-icons-go.vercel.app/api/icons?i=istio,consul,linkerd,cilium,calico,flannel,envoy,coredns,cni,kubevip,nginx,apache,haproxy,keepalived)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -82,7 +82,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,alloy,mimir,loki,tempo,pyroscope,opentelemetry,jaeger,elasticsearch,logstash,kibana,fluentd,opencost)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,dynatrace,sentry,robusta,opentelemetry,jaeger,elasticsearch,logstash,kibana,beats,fluentd)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -90,7 +90,7 @@
 <summary><b>🔒 Security, Secrets & Access Policies</b></summary>
 <br/>
 
-[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=vault,externalsecrets,sops,certmanager,opa,kyverno,ranger,trivy,kubescape,kubebench,syft,grype,falco,tetragon)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=kyverno,opa,ranger,certmanager,vault,sops,externalsecrets,tetragon,falco,armo,trivy,kubescape,kubebench,syft,grype,cosign)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
