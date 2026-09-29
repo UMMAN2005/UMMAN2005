@@ -50,7 +50,7 @@
 <summary><b>☁️ Cloud, Infrastructure as Code & Developer Platforms</b></summary>
 <br/>
 
-[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,vmware,terraform,opentofu,terragrunt,crossplane,backstage,ansible,packer,vagrant)](https://github.com/UMMAN2005/skill-icons)
+[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,vmware,terraform,opentofu,terragrunt,crossplane,backstage,ansible,semaphore,packer,vagrant)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -82,7 +82,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,dynatrace,sentry,robusta,opentelemetry,jaeger,elasticsearch,logstash,kibana,beats,fluentd)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,dynatrace,sentry,robusta,opentelemetry,jaeger,elasticsearch,logstash,kibana,beats,fluentd,uptimekuma)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -106,7 +106,7 @@
 <summary><b>💾 Databases, Storage & Messaging</b></summary>
 <br/>
 
-[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlserver,mongodb,redis,etcd,longhorn,rabbitmq)](https://github.com/UMMAN2005/skill-icons)
+[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlserver,mongodb,dapper,redis,etcd,longhorn,rabbitmq)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -123,7 +123,7 @@
 <br/>
 
 #### Editors, Workflow, Testing & Data Access
-[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,vscode,vim,zed,makefile,taskfile,k9s,telepresence,hurl,k6,ossfuzz,sqlalchemy,mongoose)](https://github.com/UMMAN2005/skill-icons)
+[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,vscode,vim,zed,makefile,taskfile,k9s,telepresence,hurl,k6,ossfuzz,eslint,sqlalchemy,mongoose)](https://github.com/UMMAN2005/skill-icons)
 
 #### Configuration, Documentation & Text Processing
 [![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
