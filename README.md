@@ -58,7 +58,7 @@
 <summary><b>☸️ Containers & Kubernetes</b></summary>
 <br/>
 
-[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,knative,openfaas,helm,kustomize,docker,containerd)](https://github.com/UMMAN2005/skill-icons)
+[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,knative,openfaas,helm,kustomize,docker,dockercompose,containerd)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -90,7 +90,7 @@
 <summary><b>🔒 Security, Secrets & Access Policies</b></summary>
 <br/>
 
-[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=kyverno,opa,ranger,certmanager,vault,sops,externalsecrets,tetragon,falco,sonarqube,armo,trivy,kubescape,kubebench,syft,grype,cosign)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=kyverno,opa,ranger,certmanager,vault,sops,externalsecrets,tetragon,falco,sonarqube,semgrep,armo,trivy,kubescape,kubebench,syft,grype,cosign,gitleaks,trufflehog)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -106,7 +106,7 @@
 <summary><b>💾 Databases, Storage & Messaging</b></summary>
 <br/>
 
-[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlserver,mongodb,dapper,redis,etcd,longhorn,rabbitmq)](https://github.com/UMMAN2005/skill-icons)
+[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlserver,mongodb,redis,etcd,longhorn,rabbitmq)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -123,10 +123,10 @@
 <br/>
 
 #### Editors, Workflow, Testing & Data Access
-[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,vscode,vim,zed,makefile,taskfile,k9s,telepresence,hurl,k6,ossfuzz,eslint,sqlalchemy,mongoose)](https://github.com/UMMAN2005/skill-icons)
+[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,lefthook,vscode,visualstudio,vim,zed,makefile,taskfile,k9s,starship,telepresence,hurl,k6,ossfuzz)](https://github.com/UMMAN2005/skill-icons)
 
 #### Configuration, Documentation & Text Processing
-[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
+[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,hcl,toml,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -143,7 +143,7 @@
 <br/>
 
 #### Application Development, Mobile & APIs
-[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,ts,nodejs,fastapi,flask,dotnet,blazor,graphql,flutter,riverpod,firebase,vercel)](https://github.com/UMMAN2005/skill-icons)
+[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,ts,nodejs,fastapi,flask,dotnet,blazor,dapper,sqlalchemy,mongoose,graphql,flutter,riverpod,firebase,vercel)](https://github.com/UMMAN2005/skill-icons)
 
 #### Blockchain & Smart Contracts
 [![Web3](https://skill-icons-go.vercel.app/api/icons?i=ethereum,hyperledger,kaleido,solidity,vyper,hardhat,foundry,chainlink,ipfs,infura,alchemy,metamask,rabby)](https://github.com/UMMAN2005/skill-icons)
