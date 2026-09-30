@@ -134,7 +134,7 @@
 <summary><b>🤖 AI Coding Agents & Tools</b></summary>
 <br/>
 
-[![AI Coding Agents & Tools](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,cursor,githubcopilot,ollama,mcp)](https://github.com/UMMAN2005/skill-icons)
+[![AI Coding Agents & Tools](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,hermes,mempalace,cursor,githubcopilot,ollama,mcp)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
