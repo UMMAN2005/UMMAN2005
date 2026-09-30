@@ -95,14 +95,6 @@
 </details>
 
 <details open>
-<summary><b>🧠 MLOps, Data Pipelines & Vector Engines</b></summary>
-<br/>
-
-[![MLOps & Data Pipelines](https://skill-icons-go.vercel.app/api/icons?i=airbyte,airflow,trino,qdrant)](https://github.com/UMMAN2005/skill-icons)
-
-</details>
-
-<details open>
 <summary><b>💾 Databases, Storage & Messaging</b></summary>
 <br/>
 
@@ -131,10 +123,10 @@
 </details>
 
 <details open>
-<summary><b>🤖 AI Coding Agents & Tools</b></summary>
+<summary><b>🤖 AI Tooling, Autonomous Agents & MLOps</b></summary>
 <br/>
 
-[![AI Coding Agents & Tools](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,hermes,mempalace,cursor,githubcopilot,ollama,mcp)](https://github.com/UMMAN2005/skill-icons)
+[![AI Tooling & MLOps](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,hermes,mempalace,githubcopilot,ollama,mcp,huggingface,jupyter,googlecolab,airflow,airbyte,trino,qdrant)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
