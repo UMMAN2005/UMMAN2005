@@ -82,7 +82,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,dynatrace,sentry,robusta,opentelemetry,jaeger,elasticsearch,logstash,kibana,beats,fluentd,uptimekuma)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,dynatrace,sentry,robusta,opentelemetry,jaeger,wazuh,elasticsearch,logstash,kibana,beats,fluentd,uptimekuma)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -115,10 +115,10 @@
 <br/>
 
 #### Editors, Workflow, Testing & Data Access
-[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,lefthook,vscode,visualstudio,vim,zed,makefile,taskfile,k9s,starship,telepresence,hurl,k6,ossfuzz)](https://github.com/UMMAN2005/skill-icons)
+[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,lefthook,vscode,visualstudio,vim,zed,ghostty,makefile,taskfile,just,k9s,starship,telepresence,hurl,k6,ossfuzz)](https://github.com/UMMAN2005/skill-icons)
 
 #### Configuration, Documentation & Text Processing
-[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,hcl,toml,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
+[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,hcl,toml,csv,ini,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
