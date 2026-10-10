@@ -106,7 +106,7 @@
 <summary><b>💻 Languages, Scripting & Operating Systems</b></summary>
 <br/>
 
-[![Languages, Scripting & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,rust,c,cpp,cs,bash,powershell,linux,ubuntu,debian,redhat,nixos,windows11)](https://github.com/UMMAN2005/skill-icons)
+[![Languages, Scripting & OS](https://skill-icons-go.vercel.app/api/icons?i=go,py,rust,c,cpp,cs,bash,powershell,linux,ubuntu,debian,redhat,nixos,windows11,macos)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
