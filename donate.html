@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Support Umman Mammadov with ETH, BNB, or POL using your preferred wallet.">
+    <title>Support Umman · Crypto Donations</title>
+    <link rel="stylesheet" href="./donate.css">
+    <script type="module" src="./donate.js"></script>
+  </head>
+  <body>
+    <main>
+      <a class="back" href="./">← Umman Mammadov</a>
+      <header>
+        <p class="eyebrow">THANK YOU FOR YOUR SUPPORT</p>
+        <h1>A little fuel for<br>the next idea.</h1>
+        <p>Send a donation with Rabby, MetaMask, or another compatible Ethereum wallet.</p>
+      </header>
+
+      <section class="card" aria-labelledby="payment-heading">
+        <h2 id="payment-heading">Choose your donation</h2>
+        <form id="donation-form">
+          <fieldset id="payment-fields" disabled>
+            <label for="network">Network</label>
+            <select id="network" name="network">
+              <option value="1">Ethereum · ETH</option>
+              <option value="56">BNB Smart Chain · BNB</option>
+              <option value="137">Polygon PoS · POL</option>
+            </select>
+            <label for="amount">Amount in <span id="symbol">ETH</span></label>
+            <input id="amount" name="amount" type="text" inputmode="decimal" autocomplete="off" placeholder="0.01" maxlength="100" required aria-describedby="amount-help">
+            <p class="hint" id="amount-help">Network fees are added by your wallet.</p>
+            <div class="label-row">
+              <label for="wallet">Your wallet</label>
+              <button id="refresh-wallets" class="text-button" type="button">Refresh wallets</button>
+            </div>
+            <select id="wallet" name="wallet" required aria-describedby="wallet-help">
+              <option value="">Looking for wallets…</option>
+            </select>
+            <p class="hint" id="wallet-help">Choose an installed wallet or open this page in your wallet’s browser.</p>
+            <button class="primary" id="pay" type="submit" disabled>Review in wallet</button>
+          </fieldset>
+        </form>
+        <noscript><p>Enable JavaScript to connect a wallet, or use the address below to send manually.</p></noscript>
+        <p class="hint">Your wallet will ask you to connect, switch networks if needed, and confirm the payment.</p>
+        <p id="payment-status" class="status" role="status" aria-live="polite"></p>
+        <a id="transaction" target="_blank" rel="noopener noreferrer" hidden>View transaction ↗</a>
+      </section>
+
+      <section class="card" aria-labelledby="manual-heading">
+        <h2 id="manual-heading">Use any EVM wallet</h2>
+        <p>Send ETH on Ethereum, BNB on BNB Smart Chain, or POL on Polygon PoS to this address.</p>
+        <code class="address" id="address">0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e</code>
+        <div class="actions">
+          <button id="copy-address" type="button" hidden>Copy address</button>
+          <a id="explorer" href="https://etherscan.io/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e" target="_blank" rel="noopener noreferrer">Verify address ↗</a>
+        </div>
+        <p id="copy-status" class="hint" role="status" aria-live="polite"></p>
+      </section>
+
+      <section class="mobile-help" aria-labelledby="mobile-heading">
+        <h2 id="mobile-heading">Donating from your phone?</h2>
+        <p>Open this page in the browser inside Rabby, MetaMask, Trust Wallet, or another EVM wallet. Then select your wallet above.</p>
+        <div class="actions">
+          <a id="metamask-mobile" href="https://link.metamask.io/dapp/umman2005.github.io/UMMAN2005/donate.html">Open in MetaMask ↗</a>
+          <button id="copy-page" type="button" hidden>Copy page link for Rabby</button>
+        </div>
+        <p id="page-copy-status" class="hint" role="status" aria-live="polite"></p>
+      </section>
+    </main>
+  </body>
+</html>

@@ -201,10 +201,10 @@ Copy the full address using the copy button on the code block:
 0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e
 ```
 
-| Network | Donate with Trust Wallet | Verify address |
+| Network | Donate with your wallet | Verify address |
 | :--- | :--- | :--- |
-| Ethereum · ETH | [Open ETH payment ↗](https://link.trustwallet.com/send?asset=c60&address=0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) | [Etherscan](https://etherscan.io/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
-| BNB Smart Chain · BNB | [Open BNB payment ↗](https://link.trustwallet.com/send?asset=c20000714&address=0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) | [BscScan](https://bscscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
-| Polygon PoS · POL | [Open POL payment ↗](https://link.trustwallet.com/send?asset=c966&address=0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) | [PolygonScan](https://polygonscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
+| Ethereum · ETH | [Open ETH payment ↗](https://umman2005.github.io/UMMAN2005/donate.html?chain=1) | [Etherscan](https://etherscan.io/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
+| BNB Smart Chain · BNB | [Open BNB payment ↗](https://umman2005.github.io/UMMAN2005/donate.html?chain=56) | [BscScan](https://bscscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
+| Polygon PoS · POL | [Open POL payment ↗](https://umman2005.github.io/UMMAN2005/donate.html?chain=137) | [PolygonScan](https://polygonscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
 
-Payment links open Trust Wallet with the recipient and network prefilled. Choose an amount, review the details, and confirm in your wallet. If Trust Wallet is not installed, the links show its download page. Using another wallet? Copy the address above and select the matching network.
+Payment links open a donation page where you can choose Rabby, MetaMask, or another compatible browser wallet, enter an amount, and confirm in your wallet. On mobile, open the page in your wallet’s browser. You can also copy the address above and send from any EVM wallet on the matching network.
