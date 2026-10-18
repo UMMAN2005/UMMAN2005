@@ -5,7 +5,7 @@
   </h1>
 
   <a href="https://github.com/UMMAN2005">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=DevOps+%26+Platform+Engineer;Kubernetes+%26+Cloud+Native+Specialist;GitOps+%26+IaC+Enthusiast;Building+Resilient+Platform+Engines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=550&amp;lines=Platform+%26+DevOps+Engineer;Kubernetes+%26+Cloud+Native+Specialist;GitOps+%26+IaC+Enthusiast;Building+Resilient+Platform+Engines" alt="Platform &amp; DevOps Engineer" />
   </a>
 
   <p align="center">
@@ -167,17 +167,17 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=UMMAN2005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2&title=MultiLanguage,Repositories,Commits,Followers,Issues,Experience,PullRequest,Stars" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy-unserori.vercel.app/?username=UMMAN2005&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=4&amp;row=2&amp;title=MultiLanguage,Repositories,Commits,Followers,Issues,Experience,PullRequest,Stars" alt="GitHub Trophies" width="680" />
   </a>
 </p>
 
 ---
 
-### 💬 Random Dev Quote
+### ⏱️ Coding Activity · WakaTime
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+  <a href="https://wakatime.com/@UMMAN2005">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=UMMAN2005&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=8&amp;border_radius=8" alt="WakaTime coding activity over the last 7 days" />
   </a>
 </p>
 
@@ -191,34 +191,20 @@
   </a>
 </p>
 
-<div align="center">
-<details>
-<summary><b>🪙 Crypto Donations (EVM Multi-Chain)</b></summary>
-<br/>
+#### 🪙 Crypto Donations
 
-<p align="center">
-  <a href="https://etherscan.io/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e" target="_blank">
-    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum" />
-  </a>
-  &nbsp;
-  <a href="https://bscscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e" target="_blank">
-    <img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=black" alt="BNB Chain" />
-  </a>
-  &nbsp;
-  <a href="https://polygonscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e" target="_blank">
-    <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" alt="Polygon" />
-  </a>
-</p>
+**One address · Ethereum, BNB Smart Chain & Polygon PoS**
+
+Copy the full address using the copy button on the code block:
 
 ```plaintext
 0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e
 ```
 
-</details>
-</div>
+| Network | Donate with Trust Wallet | Verify address |
+| :--- | :--- | :--- |
+| Ethereum · ETH | [Open ETH payment ↗](https://link.trustwallet.com/send?asset=c60&address=0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) | [Etherscan](https://etherscan.io/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
+| BNB Smart Chain · BNB | [Open BNB payment ↗](https://link.trustwallet.com/send?asset=c20000714&address=0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) | [BscScan](https://bscscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
+| Polygon PoS · POL | [Open POL payment ↗](https://link.trustwallet.com/send?asset=c966&address=0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) | [PolygonScan](https://polygonscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
 
----
-
-<p align="center">
-  <sub>⚡ Designed & Crafted with precision by <a href="https://github.com/UMMAN2005">Umman Mammadov</a></sub>
-</p>
+Payment links open Trust Wallet with the recipient and network prefilled. Choose an amount, review the details, and confirm in your wallet. If Trust Wallet is not installed, the links show its download page. Using another wallet? Copy the address above and select the matching network.
