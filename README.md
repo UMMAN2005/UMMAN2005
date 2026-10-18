@@ -192,8 +192,6 @@
   </a>
 </p>
 
-#### 🪙 Crypto Donations
-
 <table align="center">
   <tr>
     <th align="center">🪙 EVM Donation Address</th>
@@ -209,5 +207,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center"><sub>Same address on all three networks. Select and copy it into your wallet. Network badges open the corresponding block explorer.</sub></p>
