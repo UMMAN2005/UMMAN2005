@@ -35,8 +35,9 @@
       <img src="https://custom-icon-badges.demolab.com/github/followers/UMMAN2005?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="Followers" />
     </a>
     &nbsp;
-    <a href="https://github.com/UMMAN2005">
-      <img src="https://komarev.com/ghpvc/?username=UMMAN2005&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile Views" />
+    <!-- Carried over 3,132 recorded Komarev views when migrating on 2026-10-18. -->
+    <a href="https://hits.sh/github.com/UMMAN2005/">
+      <img src="https://hits.sh/github.com/UMMAN2005.svg?style=for-the-badge&amp;label=Profile%20Views&amp;color=0e75b6&amp;extraCount=3132" alt="Profile Views" height="28" />
     </a>
   </p>
 
@@ -193,18 +194,20 @@
 
 #### 🪙 Crypto Donations
 
-**One address · Ethereum, BNB Smart Chain & Polygon PoS**
+<table align="center">
+  <tr>
+    <th align="center">🪙 EVM Donation Address</th>
+  </tr>
+  <tr>
+    <td align="center"><code>0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://etherscan.io/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&amp;logo=ethereum&amp;logoColor=white" alt="Ethereum · view on Etherscan" /></a>
+      <a href="https://bscscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e"><img src="https://img.shields.io/badge/BNB_Chain-F0B90B?style=flat-square&amp;logo=binance&amp;logoColor=black" alt="BNB Smart Chain · view on BscScan" /></a>
+      <a href="https://polygonscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e"><img src="https://img.shields.io/badge/Polygon-8247E5?style=flat-square&amp;logo=polygon&amp;logoColor=white" alt="Polygon PoS · view on PolygonScan" /></a>
+    </td>
+  </tr>
+</table>
 
-Copy the full address using the copy button on the code block:
-
-```plaintext
-0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e
-```
-
-| Network | Donate with your wallet | Verify address |
-| :--- | :--- | :--- |
-| Ethereum · ETH | [Open ETH payment ↗](https://umman2005.github.io/UMMAN2005/donate.html?chain=1) | [Etherscan](https://etherscan.io/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
-| BNB Smart Chain · BNB | [Open BNB payment ↗](https://umman2005.github.io/UMMAN2005/donate.html?chain=56) | [BscScan](https://bscscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
-| Polygon PoS · POL | [Open POL payment ↗](https://umman2005.github.io/UMMAN2005/donate.html?chain=137) | [PolygonScan](https://polygonscan.com/address/0x9872d9cC3d16a4A0aA8f4073363e289aBacfd88e) |
-
-Payment links open a donation page where you can choose Rabby, MetaMask, or another compatible browser wallet, enter an amount, and confirm in your wallet. On mobile, open the page in your wallet’s browser. You can also copy the address above and send from any EVM wallet on the matching network.
+<p align="center"><sub>Same address on all three networks. Select and copy it into your wallet. Network badges open the corresponding block explorer.</sub></p>
