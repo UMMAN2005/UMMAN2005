@@ -136,7 +136,7 @@
 <br/>
 
 #### Application Development, Mobile & APIs
-[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,ts,nodejs,fastapi,flask,dotnet,blazor,dapper,sqlalchemy,mongoose,graphql,flutter,riverpod,firebase,vercel)](https://github.com/UMMAN2005/skill-icons)
+[![App Dev](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,ts,jquery,nodejs,fastapi,flask,dotnet,blazor,dapper,sqlalchemy,mongoose,graphql,flutter,riverpod,firebase,vercel)](https://github.com/UMMAN2005/skill-icons)
 
 #### Blockchain & Smart Contracts
 [![Web3](https://skill-icons-go.vercel.app/api/icons?i=ethereum,hyperledger,kaleido,solidity,vyper,hardhat,foundry,openzeppelin,chainlink,ipfs,infura,alchemy,metamask,rabby)](https://github.com/UMMAN2005/skill-icons)
