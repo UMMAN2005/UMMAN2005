@@ -59,7 +59,7 @@
 <summary><b>☸️ Containers & Kubernetes</b></summary>
 <br/>
 
-[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,rke2,talos,knative,openfaas,helm,kustomize,docker,dockercompose,containerd)](https://github.com/UMMAN2005/skill-icons)
+[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,openshift,rke2,talos,keda,knative,openfaas,helm,kustomize,docker,dockercompose,containerd)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -67,7 +67,7 @@
 <summary><b>🔄 CI/CD, GitOps & Artifact Delivery</b></summary>
 <br/>
 
-[![CI/CD, GitOps & Registries](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci,tekton,buildpacks,kaniko,argocd,flux,kargo,flagger,harbor,nexus,artifacthub)](https://github.com/UMMAN2005/skill-icons)
+[![CI/CD, GitOps & Registries](https://skill-icons-go.vercel.app/api/icons?i=githubactions,gitlab,jenkins,circleci,tekton,buildpacks,kaniko,argocd,flux,kargo,flagger,openfeature,harbor,nexus,artifacthub)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -112,6 +112,14 @@
 </details>
 
 <details open>
+<summary><b>🤖 AI Tooling, Autonomous Agents & MLOps</b></summary>
+<br/>
+
+[![AI Tooling & MLOps](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,hermes,mempalace,githubcopilot,ollama,mcp,huggingface,jupyter,googlecolab,airflow,airbyte,trino,qdrant)](https://github.com/UMMAN2005/skill-icons)
+
+</details>
+
+<details open>
 <summary><b>🧰 Developer Tools & Formats</b></summary>
 <br/>
 
@@ -119,15 +127,7 @@
 [![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,lefthook,vscode,visualstudio,vim,zed,ghostty,makefile,taskfile,just,k9s,starship,telepresence,hurl,k6,ossfuzz)](https://github.com/UMMAN2005/skill-icons)
 
 #### Configuration, Documentation & Text Processing
-[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,hcl,toml,csv,ini,markdown,latex,regex)](https://github.com/UMMAN2005/skill-icons)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI Tooling, Autonomous Agents & MLOps</b></summary>
-<br/>
-
-[![AI Tooling & MLOps](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,hermes,mempalace,githubcopilot,ollama,mcp,huggingface,jupyter,googlecolab,airflow,airbyte,trino,qdrant)](https://github.com/UMMAN2005/skill-icons)
+[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,hcl,toml,csv,ini,markdown,mermaid,latex,regex)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
