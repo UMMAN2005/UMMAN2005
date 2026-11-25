@@ -51,7 +51,7 @@
 <summary><b>☁️ Cloud, Infrastructure as Code & Developer Platforms</b></summary>
 <br/>
 
-[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,vmware,terraform,opentofu,terragrunt,crossplane,backstage,ansible,semaphore,packer,vagrant)](https://github.com/UMMAN2005/skill-icons)
+[![Cloud & IaC](https://skill-icons-go.vercel.app/api/icons?i=aws,azure,gcp,digitalocean,vmware,terraform,opentofu,terragrunt,crossplane,backstage,ansible,semaphore,packer,vagrant&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -59,7 +59,7 @@
 <summary><b>☸️ Containers & Kubernetes</b></summary>
 <br/>
 
-[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,openshift,rke2,talos,keda,knative,openfaas,helm,kustomize,docker,dockercompose,containerd)](https://github.com/UMMAN2005/skill-icons)
+[![Containers & Kubernetes](https://skill-icons-go.vercel.app/api/icons?i=kubernetes,openshift,rke2,talos,keda,knative,openfaas,helm,kustomize,docker,dockercompose,containerd&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -83,7 +83,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,dynatrace,sentry,robusta,opentelemetry,jaeger,wazuh,elasticsearch,logstash,kibana,beats,fluentd,fluentbit,uptimekuma&v=db0b8a9)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,dynatrace,sentry,robusta,opentelemetry,jaeger,wazuh,elasticsearch,logstash,kibana,beats,fluentd,fluentbit,uptimekuma&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -91,7 +91,7 @@
 <summary><b>🔒 Security, Secrets & Access Policies</b></summary>
 <br/>
 
-[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=kyverno,opa,ranger,certmanager,vault,sops,externalsecrets,tetragon,falco,sonarqube,semgrep,armo,trivy,kubescape,kubebench,syft,grype,cosign,gitleaks,trufflehog)](https://github.com/UMMAN2005/skill-icons)
+[![Security & Policies](https://skill-icons-go.vercel.app/api/icons?i=kyverno,opa,ranger,keycloak,certmanager,vault,vaultwarden,sops,externalsecrets,tetragon,falco,sonarqube,semgrep,armo,trivy,kubescape,kubebench,syft,grype,cosign,gitleaks,trufflehog&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -99,7 +99,7 @@
 <summary><b>💾 Databases, Storage & Messaging</b></summary>
 <br/>
 
-[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlserver,mongodb,redis,etcd,longhorn,rabbitmq)](https://github.com/UMMAN2005/skill-icons)
+[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlserver,mongodb,redis,etcd,liquibase,longhorn,rabbitmq&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -115,7 +115,7 @@
 <summary><b>🤖 AI Tooling, Autonomous Agents & MLOps</b></summary>
 <br/>
 
-[![AI Tooling & MLOps](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,hermes,mempalace,githubcopilot,ollama,mcp,huggingface,jupyter,googlecolab,airflow,airbyte,trino,qdrant)](https://github.com/UMMAN2005/skill-icons)
+[![AI Tooling & MLOps](https://skill-icons-go.vercel.app/api/icons?i=claudecode,codex,antigravity,hermes,mempalace,githubcopilot,ollama,mcp,firecrawl,huggingface,jupyter,googlecolab,airflow,airbyte,trino,qdrant&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -124,10 +124,10 @@
 <br/>
 
 #### Editors, Workflow, Testing & Data Access
-[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,lefthook,vscode,visualstudio,vim,zed,ghostty,makefile,taskfile,just,k9s,starship,telepresence,hurl,k6,ossfuzz&v=db0b8a9)](https://github.com/UMMAN2005/skill-icons)
+[![Developer Tools](https://skill-icons-go.vercel.app/api/icons?i=git,lefthook,vscode,visualstudio,vim,zed,ghostty,makefile,taskfile,just,k9s,starship,telepresence,hurl,k6,ossfuzz,jira,trello,confluence&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 #### Configuration, Documentation & Text Processing
-[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,hcl,toml,csv,ini,markdown,mermaid,latex,regex&v=db0b8a9)](https://github.com/UMMAN2005/skill-icons)
+[![Formats & Text Processing](https://skill-icons-go.vercel.app/api/icons?i=yaml,json,hcl,toml,csv,ini,markdown,mermaid,latex,regex&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -139,7 +139,7 @@
 [![App Dev](https://skill-icons-go.vercel.app/api/icons?i=html,css,bootstrap,js,ts,jquery,nodejs,fastapi,flask,dotnet,blazor,dapper,sqlalchemy,mongoose,graphql,flutter,riverpod,firebase,vercel)](https://github.com/UMMAN2005/skill-icons)
 
 #### Blockchain & Smart Contracts
-[![Web3](https://skill-icons-go.vercel.app/api/icons?i=ethereum,hyperledger,kaleido,solidity,vyper,hardhat,foundry,openzeppelin,chainlink,ipfs,infura,alchemy,metamask,rabby)](https://github.com/UMMAN2005/skill-icons)
+[![Web3](https://skill-icons-go.vercel.app/api/icons?i=ethereum,hyperledger,kaleido,solidity,vyper,hardhat,foundry,openzeppelin,chainlink,ipfs,infura,alchemy,metamask,rabby&v=7dde95c)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -160,6 +160,15 @@
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=UMMAN2005&theme=tokyonight&border_radius=8" alt="GitHub Streak Stats" />
   </a>
+  <a href="https://wakatime.com/@UMMAN2005">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=UMMAN2005&layout=compact&theme=tokyonight&langs_count=8&border_radius=8&custom_title=WakaTime%20Coding%20Activity" alt="WakaTime Coding Activity" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@UMMAN2005">
+    <img src="https://wakatime.com/badge/user/018eab67-0426-49a1-b28f-b2864969b7f3.svg?style=for-the-badge" alt="Total WakaTime Coding Activity" />
+  </a>
 </p>
 
 ---
@@ -169,16 +178,6 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-unserori.vercel.app/?username=UMMAN2005&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;margin-h=8&amp;column=4&amp;row=2&amp;title=MultiLanguage,Repositories,Commits,Followers,Issues,Experience,PullRequest,Stars" alt="GitHub Trophies" width="680" />
-  </a>
-</p>
-
----
-
-### ⏱️ Coding Activity · WakaTime
-
-<p align="center">
-  <a href="https://wakatime.com/@UMMAN2005">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=UMMAN2005&amp;layout=compact&amp;theme=tokyonight&amp;langs_count=8&amp;border_radius=8" alt="WakaTime coding activity over the last 7 days" />
   </a>
 </p>
 
