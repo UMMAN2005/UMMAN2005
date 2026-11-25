@@ -119,7 +119,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><b>🧰 Developer Tools & Formats</b></summary>
 <br/>
 
