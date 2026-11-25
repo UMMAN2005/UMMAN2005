@@ -83,7 +83,7 @@
 <summary><b>📈 Observability, Monitoring & Distributed Tracing</b></summary>
 <br/>
 
-[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,opencost,dynatrace,sentry,robusta,opentelemetry,jaeger,wazuh,elasticsearch,logstash,kibana,beats,fluentd,fluentbit,uptimekuma&v=88977dd)](https://github.com/UMMAN2005/skill-icons)
+[![Observability](https://skill-icons-go.vercel.app/api/icons?i=prometheus,grafana,loki,mimir,tempo,pyroscope,alloy,opencost,dynatrace,sentry,robusta,opentelemetry,jaeger,wazuh,elasticsearch,logstash,kibana,beats,fluentd,fluentbit,uptimekuma&v=178be50)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
@@ -99,7 +99,7 @@
 <summary><b>💾 Databases, Storage & Messaging</b></summary>
 <br/>
 
-[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlite,sqlserver,mongodb,redis,etcd,liquibase,longhorn,kafka,rabbitmq&v=88977dd)](https://github.com/UMMAN2005/skill-icons)
+[![Databases, Storage & Messaging](https://skill-icons-go.vercel.app/api/icons?i=postgres,cloudnativepg,mysql,sqlite,sqlserver,mongodb,redis,etcd,liquibase,longhorn,kafka,rabbitmq&v=178be50)](https://github.com/UMMAN2005/skill-icons)
 
 </details>
 
